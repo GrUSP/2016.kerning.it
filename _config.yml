@@ -2,5 +2,6 @@ markdown: rdiscount
 pygments: true
 permalink: /blog/:title
 auto: true
+tickets: false
 rdiscount:
   extensions: [smart]
