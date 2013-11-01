@@ -1045,7 +1045,7 @@ h2 {
     display: none;
   }
   #tickets #eventbrite-iframe {
-    height: 480px !important;
+    height: 560px !important;
     display: block;
   }
   #sponsors .sponsor-block {
