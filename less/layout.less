@@ -11,7 +11,7 @@
 @red: rgb(198,48,26);
 @gray: rgb(229,229,229);
 @almostblack: rgb(39,36,36);
- 
+
 @speakers: rgb(248,247,244);
 @calling: rgb(48,44,45);
 @opening: rgb(227,78,53);
@@ -21,7 +21,7 @@
 @sponsors: rgb(229, 227, 222);
 @contact: rgb(48,44,45);
 
-////////// 
+//////////
 // GRID //
 //////////
 
@@ -37,27 +37,27 @@
 .sans-bold(@fs:1em,@lh:1.5em) {
   font-family: PlutoSansBold,sans-serif;
   font-size:@fs;
-  line-height:@lh; 
+  line-height:@lh;
 }
 
 .sans-light(@fs:1em,@lh:1.5em) {
   font-family: PlutoSansLight,sans-serif;
   font-size:@fs;
-  line-height:@lh; 
+  line-height:@lh;
 }
 
 .serif-light(@fs:1em,@lh:1.5em) {
 	font-family: "adelle", serif;
 	font-weight: 100;
 	font-size:@fs;
-  	line-height:@lh; 
+  	line-height:@lh;
 }
 
 .serif-bold(@fs:1em,@lh:1.5em) {
 	font-family: "adelle", serif;
 	font-weight: 700;
 	font-size:@fs;
-  	line-height:@lh; 
+  	line-height:@lh;
 }
 
 .serif-light-italic(@fs:1em,@lh:1.5em) {
@@ -65,11 +65,11 @@
 	font-weight: 100;
 	font-style: italic;
 	font-size:@fs;
-  	line-height:@lh; 
+  	line-height:@lh;
 }
 //////////////////
-* { 
-    box-sizing: border-box;  
+* {
+    box-sizing: border-box;
 }
 html {
 	height: 100%;
@@ -130,7 +130,7 @@ h2 {
 	z-index: 20;
 	//border-top: 10px solid @beige;
 	//border-bottom: 10px solid transparent;
-	
+
 	.clearfix();
 	background: url('../img/bg_body.png') top left repeat-x @beige;
 	#logo {
@@ -173,17 +173,17 @@ h2 {
 			border-bottom: 1px solid @gray;
 		}
 	}
-} 
+}
 
 .section {
 	.wholecolumn(12);
 	//display: none;
-	
+
 }
 
 #content {
 	//margin-top: 50px;
-} 
+}
 
 #speakers {
 	background-color: @speakers;
@@ -199,12 +199,12 @@ h2 {
 		text-align: center;
 		margin: 0 auto;
 		&.keynote {
-			
+
 			.push(4);
 			padding:0 20px;
 		}
 		&.workshop {
-		
+
 			.push(4);
 			padding:0 20px;
 		}
@@ -219,7 +219,7 @@ h2 {
 			}
 		}
 		img {
-			
+
 			width: 100%;
 			display: block;
 			margin: 0 0 20px 0;
@@ -278,10 +278,10 @@ h2 {
 	/*&:after {
 		bottom:-43px;
 		min-height:43px;
-		background: url("../img/bg-sponsor.png") left no-repeat;	
+		background: url("../img/bg-sponsor.png") left no-repeat;
 		background-size: 100% 100%;
 	}*/
-	
+
 	h3.greatprimer {
 		.sans-bold();
 		text-transform: uppercase;
@@ -321,12 +321,12 @@ h2 {
 		margin: 15px 0;
 		&.great {
 			.column(12);
-			
+
 		}
 		img {
 				width: 100%;
 			}
-		
+
 	}
 
 	.become-sponsor{
@@ -336,7 +336,7 @@ h2 {
 			color: @orange;
 		}
 	}
-	
+
 
 }
 
@@ -376,7 +376,7 @@ h2 {
 	input[type=submit]{
 		.wholecolumn(4);
 		display: inline-block;
-		
+
 		.sans-bold(12px);
 		background: @red;
 		color:@white;
@@ -390,7 +390,7 @@ h2 {
 
 	}
 }
-	
+
 }
 
 #contact {
@@ -433,9 +433,6 @@ h2 {
 
 }
 
-#footer {
-		
-} 
 
 /////// H O M E //////////////////////////////////////////////
 
@@ -511,18 +508,18 @@ h2 {
 	.abstract {
 		.wholecolumn(12);
 		padding: 30px 0;
-	
+
 		p.col {
-			
+
 			.wholecolumn(12);
 			.sans-light(14px);
-			
+
 			text-align: left;
 			text-transform: none;
 		}
 
 	}
-	
+
 }
 
 ///////// L O C A T I O N ////////////////////////////////////
@@ -629,9 +626,10 @@ h2 {
 	}
 }
 
-////////// C O N F E R E N C E ///////////////////////////////////////////
+////////// C O N F E R E N C E  +  A B O U T  U S ///////////////////////////////////////////
 
-#conference {
+#conference,
+#about-us {
 	padding:30px 0;
 	background-color: @beige;
 	margin-top: 50px;
@@ -648,7 +646,11 @@ h2 {
 		text-transform: uppercase;
 	}
 
-
+	#more {
+		.speaker .info {
+			padding-top: 20px;
+		}
+	}
 
 	.more {
 		.wholecolumn(12);
@@ -658,6 +660,12 @@ h2 {
 }
 
 #conference-abstract {
+	.wholecolumn(12);
+	text-align: left;
+	margin:  40px 0;
+}
+
+#about-us-crew {
 	.wholecolumn(12);
 	text-align: left;
 	margin:  40px 0;
@@ -736,12 +744,12 @@ h2 {
 			margin: 0 0 20px 0;
 		}
 
-		
+
 	}
 	.topic {
 		.wholecolumn(12);
 		.title {
-			
+
 			.serif-bold(21px, 1.2em);
 			margin: 0;
 		}
@@ -803,10 +811,10 @@ h2 {
 	}
 
 	.schedule-session {
-		
+
 		.wholecolumn(12);
 		padding: 15px 0;
-		border-bottom: 1px solid @gray; 
+		border-bottom: 1px solid @gray;
 		.hour {
 			.serif-light(24px);
 			//text-align: right;
@@ -835,7 +843,7 @@ h2 {
 	.wrapper {
 		.wholecolumn(8);
 		.push(2);
-		
+
 	}
 	#what{
 		.short {
@@ -844,7 +852,7 @@ h2 {
 			.push(2);
 		}
 		.abstract {
-		
+
 			p.col {
 				.column(6);
 				padding: 0 5px;
@@ -865,12 +873,14 @@ h2 {
 		.wrapper {
 		.wholecolumn(12);
 		//.push();
-		
+
 	}
 		#eventbrite-link {
 			display: none;
 		}
 		#eventbrite-iframe {
+			max-width: 1000px;
+			margin: 0px auto;
 			height: 750px !important;
 			display: block;
 		}
@@ -879,7 +889,7 @@ h2 {
 	#sponsors {
 
 		.sponsor-block {
-		
+
 			margin: 15px 0;
 			&.great {
 				.column(8);
@@ -887,28 +897,28 @@ h2 {
 				img {
 					max-width: 405px;
 				}
-			}	
+			}
 			&.pica {
 				img {
 					max-width: 320px;
 				}
-			}	
+			}
 			&.bourgeois {
 				img {
 					max-width: 235px;
 				}
-			}	
+			}
 			&.minion {
 				img {
 					max-width: 183px;
 				}
-			}	
+			}
 			&.media {
 
 				img {
 					max-width: 140px;
 				}
-			}	
+			}
 		}
 	}
 	#calling {
@@ -923,11 +933,11 @@ h2 {
 	#contact {
 		.wrapper {
 			.wholecolumn(12);
-			
+
 		}
 		.col {
 			.wholecolumn(4);
-			
+
 			text-align: left;
 			//border: 1px solid red;
 			padding: 30px 20px 0 20px;
@@ -970,7 +980,7 @@ h2 {
 		.wrapper {
 			.wholecolumn(10);
 			.push(1);
-		
+
 		}
 	}
 
@@ -993,7 +1003,6 @@ h2 {
 		.wrapper {
 			.wholecolumn(12);
 			//.push(1);
-		
 		}
 	}
 
@@ -1031,7 +1040,7 @@ h2 {
 	.schedule-session {
 		.wholecolumn(12);
 		padding: 15px 0;
-		border-bottom: 1px solid @gray; 
+		border-bottom: 1px solid @gray;
 		.hour {
 			.serif-light(24px);
 			//text-align: right;
@@ -1054,7 +1063,7 @@ h2 {
   ///////////////
  //  DESKTOP  //
 ///////////////
-@media screen and (min-width:1024px) { 
+@media screen and (min-width:1024px) {
 	.wrapper {
 		.wholecolumn(8);
 		.push(2);
@@ -1139,7 +1148,7 @@ h2 {
 			padding: 0 10px;
 		}
 	}
-	
+
 	#speakers {
 		#speakers-list {
 			li {
@@ -1164,7 +1173,7 @@ h2 {
 			&:last-child {
 				.wholecolumn(3);
 			}
-			
+
 			margin: 0 0 40px 0;
 			&:first-child {
 				text-align:center;
@@ -1177,12 +1186,12 @@ h2 {
 	}
 
 	#conference,
-	#workshops, #schedule,
+	#workshops,
+	#schedule,
 	#header {
 		.wrapper {
 			.wholecolumn(10);
 			.push(1);
-		
 		}
 	}
 
@@ -1236,21 +1245,21 @@ h2 {
 
 #schedule {
 	.schedule-session {
-		
+
 		.wholecolumn(12);
 		padding: 15px 0;
-		border-bottom: 1px solid @gray; 
+		border-bottom: 1px solid @gray;
 		.hour {
 			.column(2);
 			.serif-light(24px);
 			//text-align: right;
-			
+
 		}
 		.image {
 			.column(2);
 
 			padding: 0 20px;
-			
+
 			img {
 				width: 100%
 				display: block;
@@ -1258,7 +1267,7 @@ h2 {
 		}
 		.topic {
 			.column(8);
-			
+
 			text-align: left;
 			.title {
 				.serif-bold(24px);
@@ -1268,7 +1277,7 @@ h2 {
 		}
 
 }
-   
+
 .fixed {
     position:fixed;
     border-top: 10px solid @beige;

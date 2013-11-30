@@ -396,7 +396,7 @@ h2 {
   /*&:after {
 		bottom:-43px;
 		min-height:43px;
-		background: url("../img/bg-sponsor.png") left no-repeat;	
+		background: url("../img/bg-sponsor.png") left no-repeat;
 		background-size: 100% 100%;
 	}*/
 
@@ -778,17 +778,20 @@ h2 {
 #venue-abstract .col dl dd {
   margin-bottom: 20px;
 }
-#conference {
+#conference,
+#about-us {
   padding: 30px 0;
   background-color: #f8f7f4;
   margin-top: 50px;
 }
-#conference h2 {
+#conference h2,
+#about-us h2 {
   background: none;
   padding: 0;
   margin: 0;
 }
-#conference h3 {
+#conference h3,
+#about-us h3 {
   background: url('/img/filetto.png') bottom center no-repeat;
   margin: 0 0 20px 0;
   padding: 0 0 10px 0;
@@ -797,7 +800,12 @@ h2 {
   line-height: 1.5em;
   text-transform: uppercase;
 }
-#conference .more {
+#conference #more .speaker .info,
+#about-us #more .speaker .info {
+  padding-top: 20px;
+}
+#conference .more,
+#about-us .more {
   display: inline;
   float: left;
   width: 100%;
@@ -810,6 +818,14 @@ h2 {
   line-height: 1.5em;
 }
 #conference-abstract {
+  display: inline;
+  float: left;
+  width: 100%;
+  margin: 0 ;
+  text-align: left;
+  margin: 40px 0;
+}
+#about-us-crew {
   display: inline;
   float: left;
   width: 100%;
@@ -854,10 +870,6 @@ h2 {
   padding: 40px 0;
 }
 .session .speaker {
-  display: inline;
-  float: left;
-  width: 100%;
-  margin: 0 ;
   display: inline;
   float: left;
   width: 100%;
@@ -1045,7 +1057,9 @@ h2 {
     display: none;
   }
   #tickets #eventbrite-iframe {
-    height: 600px !important;
+    max-width: 1000px;
+    margin: 0px auto;
+    height: 750px !important;
     display: block;
   }
   #sponsors .sponsor-block {
