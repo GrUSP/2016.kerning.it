@@ -1050,6 +1050,9 @@ h2 {
     float: left;
     width: 50%;
     margin: 0 ;
+    display: inline-block;
+    float: none;
+    margin: 0 0 0 -4px;
   }
   #tickets .wrapper {
     display: inline;
@@ -1354,8 +1357,11 @@ h2 {
   #speakers #speakers-list li {
     display: inline;
     float: left;
-    width: 33.33333333333333%;
+    width: 25%;
     margin: 0 ;
+    display: inline-block;
+    float: none;
+    margin: 0 0 0 -4px;
   }
   #venue-abstract {
     display: inline;
