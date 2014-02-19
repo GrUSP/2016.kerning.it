@@ -4,9 +4,12 @@ title: page-conference
 ttl: Speakers
 ---
 
-{% include section-conference.html %}	
+{% include section-conference.html %}
 
-{% include section-sponsors.html %}	
-{% include section-newsletter.html %}	
-{% include section-contact.html %}	
+{% if site.tickets %}
+  {% include section-tickets.html %}
+{% endif %}
+{% include section-sponsors.html %}
+{% include section-newsletter.html %}
+{% include section-contact.html %}
 
