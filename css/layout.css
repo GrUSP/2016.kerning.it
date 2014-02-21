@@ -833,6 +833,65 @@ h2 {
   text-align: left;
   margin: 40px 0;
 }
+#conduction {
+  padding: 30px 0;
+  background-color: #f8f7f4;
+  margin-top: 50px;
+}
+#conduction-longtext {
+  display: inline;
+  float: left;
+  width: 100%;
+  margin: 0 ;
+}
+#conduction-longtext .col {
+  display: inline;
+  float: left;
+  width: 100%;
+  margin: 0 ;
+  text-align: left;
+  font-size: 14px;
+}
+#conduction-longtext .intro {
+  display: inline;
+  float: left;
+  width: 100%;
+  margin: 0 ;
+  font-family: "adelle", serif;
+  font-weight: 100;
+  font-size: 1em;
+  line-height: 1.5em;
+  font-size: 21px;
+  color: #231f20;
+  padding: 0 0 30px 0;
+}
+#conduction-longtext .intro b {
+  font-family: "adelle", serif;
+  font-weight: 700;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+#conduction-longtext h3 {
+  font-family: "adelle", serif;
+  font-weight: 700;
+  font-size: 1em;
+  line-height: 1.5em;
+  font-size: 18px;
+  margin: 30px 0 20px 0;
+}
+#conduction-longtext p {
+  margin: 0 0 0.75em 0;
+}
+#conduction-longtext p b {
+  font-family: "adelle", serif;
+  font-weight: 700;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+#conduction-longtext a {
+  text-decoration: underline;
+  color: inherit;
+}
 #workshops {
   padding: 30px 0;
   background-color: #f8f7f4;
@@ -1062,7 +1121,7 @@ h2 {
   #tickets #eventbrite-iframe {
     max-width: 1000px;
     margin: 0px auto;
-    height: 750px !important;
+    height: 520px !important;
     display: block;
   }
   #sponsors .sponsor-block {
@@ -1135,6 +1194,9 @@ h2 {
   #contact li .about {
     background: url('/img/about.png') center left no-repeat;
   }
+  #contact li .code-of-conduct {
+    background: url('/img/code-of-conduct.png') center left no-repeat;
+  }
   #location .wrapper {
     display: inline;
     float: left;
@@ -1171,11 +1233,20 @@ h2 {
   }
   #conference .wrapper,
   #workshops .wrapper,
+  #conduction .wrapper,
   #header .wrapper {
     display: inline;
     float: left;
     width: 100%;
     margin: 0 ;
+  }
+  #conduction-longtext .col {
+    display: inline;
+    float: left;
+    width: 100%;
+    margin: 0 ;
+    text-align: left;
+    padding: 0 10px;
   }
   .session {
     display: inline;
@@ -1422,6 +1493,28 @@ h2 {
     font-size: 12px;
     line-height: 1.5em;
     text-transform: uppercase;
+  }
+  #conduction-longtext {
+    display: inline;
+    float: left;
+    width: 66.66666666666666%;
+    margin: 0 ;
+    margin-left: 16.666666666666664%;
+    padding: 50px 0;
+  }
+  #conduction-longtext .col {
+    display: inline;
+    float: left;
+    width: 33.33333333333333%;
+    margin: 0 ;
+    text-align: left;
+    padding: 0 10px;
+  }
+  #conduction-longtext .col:last-child {
+    display: inline;
+    float: left;
+    width: 66.66666666666666%;
+    margin: 0 0%;
   }
   .session .speaker {
     display: inline;

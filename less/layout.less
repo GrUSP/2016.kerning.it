@@ -20,6 +20,7 @@
 @tickets: rgb(227,78,53);
 @sponsors: rgb(229, 227, 222);
 @contact: rgb(48,44,45);
+@conduction: rgb(239,238,235);
 
 //////////
 // GRID //
@@ -671,6 +672,51 @@ h2 {
 	margin:  40px 0;
 }
 
+///////// C O D E  O F  C O N D U C T  ////////////////////////////////////
+
+#conduction {
+	padding:30px 0;
+	background-color: @beige;
+	margin-top: 50px;
+}
+
+#conduction-longtext {
+	.wholecolumn(12);
+
+	.col {
+		.wholecolumn(12);
+		text-align: left;
+		font-size: 14px;
+	}
+	.intro {
+		.wholecolumn(12);
+		.serif-light();
+
+		font-size: 21px;
+		color: @black;
+		padding: 0 0 30px 0;
+		b {
+			.serif-bold();
+		}
+
+	}
+	h3 {
+		.serif-bold();
+		font-size: 18px;
+		margin: 30px 0 20px 0;
+	}
+	p {
+		margin: 0 0 0.75em 0;
+		b {
+			.serif-bold();
+		}
+	}
+	a {
+		text-decoration: underline;
+		color: inherit;
+	}
+}
+
 ////////// W O R K S H O P S ///////////////////////////////////////////
 
 #workshops {
@@ -884,7 +930,8 @@ h2 {
 		#eventbrite-iframe {
 			max-width: 1000px;
 			margin: 0px auto;
-			height: 750px !important;
+			height: 520px !important; // height with only conference tickets
+			// height: 750px !important; // height with conference + workshops tickets
 			display: block;
 		}
 	}
@@ -968,6 +1015,9 @@ h2 {
 			.about {
 				background: url('/img/about.png') center left no-repeat;
 			}
+			.code-of-conduct {
+				background: url('/img/code-of-conduct.png') center left no-repeat;
+			}
 		}
 	}
 	#location {
@@ -1006,10 +1056,19 @@ h2 {
 
 	#conference,
 	#workshops,
+	#conduction,
 	#header {
 		.wrapper {
 			.wholecolumn(12);
 			//.push(1);
+		}
+	}
+
+	#conduction-longtext {
+		.col {
+			.wholecolumn(12);
+			text-align: left;
+			padding: 0 10px;
 		}
 	}
 
@@ -1209,18 +1268,32 @@ h2 {
 		padding:30px 0 90px 0;
 		background-color: @beige;
 		margin-top: 50px;
-	h2 {
-		background: none;
-		padding: 0;
-		margin: 0;
+		h2 {
+			background: none;
+			padding: 0;
+			margin: 0;
+		}
+		h3 {
+			background: url('/img/filetto.png') bottom center no-repeat;
+			margin: 0 0 20px 0;
+			padding: 0 0 10px 0;
+			.sans-bold(12px);
+			text-transform: uppercase;
+		}
 	}
-	h3 {
-		background: url('/img/filetto.png') bottom center no-repeat;
-		margin: 0 0 20px 0;
-		padding: 0 0 10px 0;
-		.sans-bold(12px);
-		text-transform: uppercase;
-	}
+
+	#conduction-longtext {
+			.wholecolumn(8);
+			.push(2);
+			padding: 50px 0;
+		.col {
+			.wholecolumn(4);
+			&:last-child{
+				.column(8);
+			}
+			text-align: left;
+			padding: 0 10px;
+		}
 	}
 
 	.session {
