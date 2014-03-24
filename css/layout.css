@@ -649,6 +649,13 @@ h2 {
   margin: 0 ;
   padding: 30px 0;
 }
+#what .abstract .intro {
+  font-family: "adelle", serif;
+  font-weight: 100;
+  font-size: 1em;
+  line-height: 1.5em;
+  font-size: 21px;
+}
 #what .abstract p.col {
   display: inline;
   float: left;
@@ -992,6 +999,13 @@ h2 {
   font-family: PlutoSansLight, sans-serif;
   font-size: 14px;
   line-height: 1.5em;
+}
+.session .topic .abstract .intro {
+  font-family: "adelle", serif;
+  font-weight: 100;
+  font-size: 1em;
+  line-height: 1.5em;
+  font-size: 21px;
 }
 .session .topic .abstract p {
   margin: 0 0 0.75em 0;
