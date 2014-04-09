@@ -444,6 +444,12 @@ h2 {
 }
 #sponsors .sponsor-block img {
   padding: 5px 10px;
+  width: 48%;
+}
+#sponsors .sponsor-block.pica img {
+  width: 70%;
+}
+#sponsors .sponsor-block.great img {
   width: 100%;
 }
 #sponsors .become-sponsor {
@@ -548,6 +554,8 @@ h2 {
 }
 #contact li {
   margin: 0 0 20px 0;
+  width: 48%;
+  display: inline-block;
 }
 #ribbon {
   clear: both;
@@ -831,6 +839,9 @@ h2 {
   text-align: left;
   margin: 40px 0;
 }
+#about-us-crew .session .speaker {
+  width: 100%;
+}
 #conduction {
   padding: 30px 0;
   background-color: #f8f7f4;
@@ -923,8 +934,8 @@ h2 {
   width: 100%;
   margin: 0 ;
   background: url('/img/filetto.png') bottom center no-repeat;
-  margin: 40px 0;
-  padding: 40px 0;
+  margin: 20px 0;
+  padding: 20px 0;
 }
 .session .speaker {
   display: inline;
@@ -1040,6 +1051,11 @@ h2 {
   line-height: 1.5em;
   color: #231f20;
 }
+#schedule {
+  padding: 30px 0;
+  background-color: #f8f7f4;
+  margin-top: 50px;
+}
 #schedule h2 {
   background: none;
   padding: 0;
@@ -1132,6 +1148,9 @@ h2 {
   #sponsors .sponsor-block {
     margin: 15px 0;
   }
+  #sponsors .sponsor-block img {
+    width: auto;
+  }
   #sponsors .sponsor-block.great img {
     max-width: 480px;
   }
@@ -1179,6 +1198,7 @@ h2 {
   }
   #contact li {
     margin: 0 0 20px 0;
+    width: auto;
   }
   #contact li .twitter {
     background: url('/img/twitter.png') center left no-repeat;
@@ -1287,6 +1307,9 @@ h2 {
     width: 100%;
     margin: 0 ;
     padding: 0 20px;
+  }
+  #about-us-crew .session .speaker .image {
+    width: 20%;
   }
   .schedule-session {
     display: inline;
@@ -1579,7 +1602,7 @@ h2 {
   }
   #schedule .schedule-session .image img {
     width: 100%
-				display: block;
+					display: block;
   }
   #schedule .schedule-session .topic {
     display: inline;

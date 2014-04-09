@@ -321,8 +321,10 @@ h2 {
 		margin: 25px 0;
 		img {
 			padding: 5px 10px;
-			width: 100%;
+			width: 48%;
 		}
+		&.pica img { width: 70%; }
+		&.great img { width: 100%; }
 
 	}
 
@@ -426,6 +428,8 @@ h2 {
 
 	li {
 		margin: 0 0 20px 0;
+		width: 48%;
+		display: inline-block;
 	}
 
 }
@@ -507,8 +511,7 @@ h2 {
 		padding: 30px 0;
 		.intro {
 			.serif-light();
-
-		font-size: 21px;
+			font-size: 21px;
 		}
 
 		p.col {
@@ -671,6 +674,9 @@ h2 {
 	.wholecolumn(12);
 	text-align: left;
 	margin:  40px 0;
+	.session .speaker {
+		width: 100%;
+	}
 }
 
 ///////// C O D E  O F  C O N D U C T  ////////////////////////////////////
@@ -747,10 +753,10 @@ h2 {
 .session {
 	.wholecolumn(12);
 	background: url('/img/filetto.png') bottom center no-repeat;
-	margin:  40px 0;
-	padding: 40px 0;
+	margin:  20px 0;
+	padding: 20px 0;
 	.speaker {
-.wholecolumn(12);
+		.wholecolumn(12);
 		.image {
 			text-align: center;
 			padding: 0 0 20px 0;
@@ -847,7 +853,13 @@ h2 {
 
 
 }
+
+////////// S C H E D U L E ///////////////////////////////////////////
+
 #schedule {
+	padding: 30px 0;
+	background-color: @beige;
+	margin-top: 50px;
 	h2 {
 		background: none;
 		padding: 0;
@@ -945,6 +957,7 @@ h2 {
 
 		.sponsor-block {
 			margin: 15px 0;
+			img { width: auto; }
 			&.great img { max-width: 480px; }
 			&.pica img { max-width: 320px; }
 			&.bourgeois img { max-width: 235px; }
@@ -982,6 +995,7 @@ h2 {
 
 		li {
 			margin: 0 0 20px 0;
+			width: auto;
 
 			.twitter {
 				background: url('/img/twitter.png') center left no-repeat;
@@ -1083,6 +1097,8 @@ h2 {
 
 	}
 
+	#about-us-crew .session .speaker .image { width: 20%; }
+
 	.schedule-session {
 		.wholecolumn(12);
 		padding: 15px 0;
@@ -1106,8 +1122,8 @@ h2 {
 	}
 }
 
-  ///////////////
- //  DESKTOP  //
+///////////////
+//  DESKTOP  //
 ///////////////
 @media screen and (min-width:1024px) {
 	.wrapper {
@@ -1203,10 +1219,6 @@ h2 {
 				float: none;
 				margin: 0 0 0 -4px;
 			}
-		}
-	}
-	#venue {
-		.wrapper {
 		}
 	}
 
@@ -1306,38 +1318,38 @@ h2 {
 
 	}
 
-#schedule {
-	.schedule-session {
+	#schedule {
+		.schedule-session {
 
-		.wholecolumn(12);
-		padding: 15px 0;
-		border-bottom: 1px solid @gray;
-		.hour {
-			.column(2);
-			.serif-light(24px);
-			//text-align: right;
+			.wholecolumn(12);
+			padding: 15px 0;
+			border-bottom: 1px solid @gray;
+			.hour {
+				.column(2);
+				.serif-light(24px);
+				//text-align: right;
 
-		}
-		.image {
-			.column(2);
-
-			padding: 0 20px;
-
-			img {
-				width: 100%
-				display: block;
 			}
-		}
-		.topic {
-			.column(8);
+			.image {
+				.column(2);
 
-			text-align: left;
-			.title {
-				.serif-bold(24px);
+				padding: 0 20px;
+
+				img {
+					width: 100%
+					display: block;
+				}
+			}
+			.topic {
+				.column(8);
+
+				text-align: left;
+				.title {
+					.serif-bold(24px);
+				}
 			}
 		}
 	}
-		}
 
 }
 
