@@ -1157,6 +1157,18 @@ h2 {
   font-size: 24px;
   line-height: 1.5em;
 }
+#schedule .schedule-session a {
+  color: inherit;
+}
+#schedule .schedule-session a .title {
+  color: #e34e35;
+}
+#schedule .schedule-session a .title:hover {
+  text-decoration: underline;
+}
+#schedule .schedule-session a .name:hover {
+  text-decoration: underline;
+}
 @media screen and (min-width: 481px) {
   .wrapper {
     display: inline;
