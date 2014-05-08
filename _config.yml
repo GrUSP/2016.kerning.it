@@ -5,3 +5,5 @@ auto: true
 tickets: true
 rdiscount:
   extensions: [smart]
+gems:
+  - jekyll-sitemap
