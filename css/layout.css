@@ -1078,9 +1078,11 @@ h2 {
   line-height: 1.5em;
 }
 .session .meta .where {
-  margin: 10px 0;
+  margin: 20px 0;
+  padding-top: 20px;
+  border-top: 1px solid #E4E4E4;
   font-family: PlutoSansLight, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5em;
 }
 .session .meta .where b {
