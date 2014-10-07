@@ -263,6 +263,9 @@ h2 {
   color: #f8f7f4;
   text-transform: uppercase;
 }
+#header .pastEditionMenu {
+  display: none;
+}
 #header #nav-primary {
   text-align: left;
   display: inline;
@@ -399,6 +402,7 @@ h2 {
 		background: url("../img/bg-sponsor.png") left no-repeat;
 		background-size: 100% 100%;
 	}*/
+
 }
 #sponsors h3.greatprimer {
   font-family: PlutoSansBold, sans-serif;
@@ -1446,6 +1450,11 @@ h2 {
   #header .toggleMenu {
     display: none;
   }
+  #header .pastEditionMenu {
+    float: right;
+    color: #ffffff;
+    display: inline;
+  }
   #header #nav-primary {
     display: block;
   }
@@ -1462,6 +1471,9 @@ h2 {
     display: block;
     color: #f8f7f4;
     padding: 15px 15px 13px 0;
+  }
+  #header #nav-primary .pastEditionMenu li a {
+    padding: 15px 5px 0 0;
   }
   #what h2 {
     font-family: PlutoSansLight, sans-serif;
@@ -1723,7 +1735,7 @@ h2 {
   }
   #schedule .schedule-session .image img {
     width: 100%
-					display: block;
+  					display: block;
   }
   #schedule .schedule-session .topic {
     display: inline;
@@ -1830,5 +1842,3 @@ h2 {
   border-bottom-color: #000000;
   border-width: 0 5px 5px;
 }
-
-

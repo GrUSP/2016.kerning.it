@@ -155,6 +155,9 @@ h2 {
 		color: @beige;
 		text-transform: uppercase;
 	}
+    .pastEditionMenu {
+      display: none;
+    }
 	#nav-primary {
 		text-align: left;
 		.wholecolumn(12);
@@ -1222,7 +1225,13 @@ h2 {
 		.toggleMenu {
 			display: none;
 		}
-		#nav-primary {
+        .pastEditionMenu {
+            float:right;
+            color: @white;
+            display: inline;
+        }
+
+      #nav-primary {
 			display: block;
 			ul {
 				border-top: 0;
@@ -1239,6 +1248,9 @@ h2 {
 					padding: 15px 15px 13px 0;
 				}
 			}
+            .pastEditionMenu li a {
+              padding: 15px 5px 0 0;
+            }
 		}
 	}
 
