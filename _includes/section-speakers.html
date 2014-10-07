@@ -3,58 +3,18 @@
 			<h2>Speakers</h2>
 
 			<ul id="speakers-list">
-				<li>
-					<a href="speakers.html#chimero">
-					<img src="/img/frank.png">
-					<span>Frank<br>Chimero<br></span>
-					</a>
-				</li>
-				<li>
-					<a href="speakers.html#hische">
-					<img src="/img/jessica.png">
-					<span>Jessica<br>Hische<br></span>
-					</a>
-				</li>
-				<li>
-					<a href="speakers.html#lupton">
-					<img src="/img/ellen.png">
-					<span>Ellen<br>Lupton<br></span>
+                {% for speaker in site.data.speakers %}
+
+                <li>
+					<a href="speakers.html#{{ speaker.twitter }}">
+					<img src="{{ speaker.image }}">
+					<span>{{ speaker.name }}</span>
 					</a>
 				</li>
 
-				<li>
-					<a href="speakers.html#connare">
-					<img src="/img/vincent.png">
-					<span>Vincent<br>Connare</span>
-					</a>
-				</li>
-				
-				<li>
-					<a href="speakers.html#stocks">
-					<img src="/img/elliot.png">
-					<span>Elliot Jay<br>Stocks<br></span>
-					</a>
-				</li>
-				<li>
-					<a href="speakers.html#franchi">
-					<img src="/img/francesco.png">
-					<span>Francesco<br>Franchi<br></span>
-					</a>
-				</li>
-				
-				<li>
-					<a href="speakers.html#middendorp">
-					<img src="/img/jan.png">
-					<span>Jan<br>Middendorp<br></span>
-					</a>
-				</li>
-				
-				<li>
-					<a href="speakers.html#vanblokland">
-					<img src="/img/erik.png">
-					<span>Erik<br>Van Blokland<br></span>
-					</a>
-				</li>
+                {% endfor %}
+
+
 				{% if false %}
 				<li>
 					<img src="/img/speaker-plc.png">
@@ -68,7 +28,8 @@
 					<span>Simone<br>Wolf<br></span>
 				</li>
 			</ul>
-{% if false %}
-			<div class="more">&hellip;more to be announced soon!</div>{% endif %}
+			{% if false %}
+				<div class="more">&hellip;more to be announced soon!</div>
+			{% endif %}
 		</div>
 	</div>

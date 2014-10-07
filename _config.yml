@@ -1,9 +1,11 @@
-markdown: rdiscount
-pygments: true
+markdown: kramdown
+highlighter: pygments
 permalink: /blog/:title
-auto: true
-tickets: false
+tickets: true
+speakers: false
 rdiscount:
   extensions: [smart]
 gems:
   - jekyll-sitemap
+kramdown:
+  input: GFM
