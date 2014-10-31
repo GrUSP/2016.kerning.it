@@ -1,33 +1,71 @@
-- name:  Frank Chimero
+- name:  Laura Worthington 
   hour: 8.40
-  image: img/frank.png
-  twitter: fchimero
-  bio: <a href="http://www.frankchimero.com/">Frank Chimero</a> is a New York-based designer, illustrator, and author of <a href="http://shapeofdesignbook.com/">The Shape of Design</a>. He has worked for clients including Microsoft, Starbucks, Facebook, Newsweek, Bloomberg Businessweek, GOOD Magazine, and more. In 2010, he was chosen as a Young Gun by the Art Directors Club, and was honored as a New Visual Artist by Print Magazine. His work focuses on intermingling text and images across digital and analog spaces.
-  works: You can see his latest works on <a href="http://dribbble.com/fchimero">dribbble</a>, follow him on <a href="http://www.twitter.com/fchimero/">twitter</a>, read his personal <a href="http://frankchimero.com/blog/">blog</a> and <a href="http://www.buyolympia.com/q/Item=frank-chimero-the-shape-of-design">buy his book</a> (or read it <a href="http://read.shapeofdesignbook.com/">online</a>).
-  title: The Digital/Analog Flip-Flop
-  abstract: "Words are vessels of thought and culture. As our words jump from screen to page, medium to medium, it becomes a designer’s task to develop design approaches and typographic systems that can elegantly retain their integrity from place to place, while using each format’s advantages. Content moves in both directions we can use the connectivity of digital to invigorate printed material, but also use the uniformity of the printed page to stabilize digital content. It’s a difficult task, but we have examples. I’ll track patterns back into television, documentaries, and paperbacks to look for clues about how to take advantage of this decade’s big design opportunity."
-  video: <iframe src="//player.vimeo.com/video/107673283" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-- name: Vincent Connare
-  hour: 9.40
-  image: img/vincent.png
-  twitter: VincentConnare
-  bio: <a href="http://www.connare.com">Vincent Connare</a> is an American type designer and font engineer who is best known for creating <a href="http://www.connare.com/whycomic.htm">Comic Sans</a>. As a font engineer he has been providing technical font solutions for operating systems on computers, printers, mobile phones, televisions and cars since 1987. As a type designer he has created the web fonts Trebuchet and Webdings for Internet Explorer. He designed the <a href="http://www.connare.com/type.htm">typeface Magpie</a> targeting e-books and designed the lettering in the <a href="http://www.ministryofsound.com">Ministry of Sound</a> logo. Vincent currently works as a font engineer for <a href="http://www.daltonmaag.com">Dalton Maag</a> in London.
-  works: You can see follow his thoughts about typography on <a href="http://www.connare.com">his website</a> or be tickled by his <a href="http://www.connare.com/Photography/index.html">photographic estrus</a>
-  title: Typography is the Answer to a Question.
-  abstract:  Vincent Connare will discuss the projects he has worked on all his career that have always been an answer or solution to a software problem or need.
-  video: <iframe src="//player.vimeo.com/video/107786992" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-- name: Francesco Franchi
-  hour: 10.40
-  image: img/francesco.png
-  twitter: ffranchi
-  bio: <a href="http://www.francescofranchi.com">Francesco Franchi</a> is art director at <a href="http://www.ilsole24ore.com/cultura/il-magazine.shtml">IL, the monthly magazine of Il Sole 24 ORE</a>. Before that, he worked for five years as a senior designer at <a href="http://www.leftloft.com">Leftloft</a>, a Milan based design studio, dealing with communication design, editorial projects and infographics. Professional journalist since 2010, he's visiting professor at <a href="http://www.domusacademy.com">Domus Academy</a>, <a href="http://www.ied.edu/milan/home">IED Milan</a> and <a href="http://www.polimi.it/en/">Politecnico di Milano</a> and member of The Society of Publication Designer and professional member of <a href="http://www.aiap.it">AIAP</a>, the Italian Council of Communication Design. In 2013 he published <a href="http://amzn.com/389955468X">Designing News, Changing the world of editorial design and information graphics</a>.
-  works: You can see his latest works on <a href="http://www.francescofranchi.com/projects">his website</a> and on <a href="http://www.flickr.com/photos/ffranchi/">flickr</a>, take part to one of his <a href="http://www.francescofranchi.com/workshops">workshops</a> or buy his book on <a href="http://amzn.com/389955468X">amazon</a>
-  title: Writing is no longer enough
-  abstract: As designers we are living the most interesting and challenging age of the news industry. The technology used in writing is undergoing a huge transformation, addressing itself to a multitude of languages. The great challenge of our time is to combine different languages, in order to increase knowledge and understanding, to inform and clarify. According to Franchi, reporting is not merely filing a story once, but rather telling a continuous narrative in a way that is most relevant for a broad range of traditional and digital media—from breaking news to analysis, from interviews to commentaries, from photo essays and illustrations to information graphics and interactive visualizations of data.
-  video: <iframe src="//player.vimeo.com/video/107876602" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-- name:
+  image: img/laura.png
+  twitter: L_Worthington
+  bio: An award-winning typeface and lettering designer, Laura Worthington has built an extensive body of work based solely on her original concepts and drawings, and her depth of experience. She is especially known for evocative titling, logo, and display scripts, often offered with an astonishing abundance of swashes, alternates and ornaments. She has created high-level commissioned works (Microsoft, J.M. Smuckers), taught college-level visual communication courses and was a graphic designer for 15 years. Worthington's typefaces have appeared in numerous respected Best of Year lists. She and her work have been featured in several publications and her typefaces are available through a wide range of distinguished and popular distributors. She lives in the woods of the Pacific Northwest.
+  works: You can see her latest fonts on <a href="http://lauraworthingtontype.com/">her website</a> and follow her on <a href="https://twitter.com/L_Worthington/">twitter</a>.
+  title: TBA
+  abstract: "TBA"
+  video: 
+- name: Bruno Maag
+  hour: 
+  image: img/bruno.png
+  twitter: bruno_maag
+  bio: "Bruno began his career with an apprenticeship as a typesetter at Tages-Anzeiger, Switzerlands largest daily newspaper. He then studied Typography and Visual Communcations at Basel School of Design under Wolfgang Weingart and Andre Gürtler amongst others. 
+
+After graduating Bruno emigrated to England to work for Monotype where he established their ‘custom type department’, creating fonts for the New Yorker magazine, and others. Recent highlights are fonts for Rio2016, multilingual type for Nokia and HP, and a lovely serif font for luxury hotel brand Faena. He is currently investigating type and emotion, with a special interest in the physiological aspects."
+  works: You can see follow his thoughts about typography on <a href="http://blog.daltonmaag.com/">Dalton Maag blog</a> where you can see also his <a href="https://www.daltonmaag.com/library">latest works</a>
+  title: TBA
+  abstract:  TBA
+  video: 
+- name: Announced with BlindBird
   hour:
-  image:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:
+- name: Announced with BlindBird
+  hour:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:
+- name: Announced with EarlyBird
+  hour:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:
+- name: Announced with EarlyBird
+  hour:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:
+- name: Announced with EarlyBird
+  hour:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:
+- name: Announced with EarlyBird
+  hour:
+  image: img/speaker-plc.png
   twitter:
   bio:
   works:

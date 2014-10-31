@@ -1,5 +1,5 @@
 {% for speaker in site.data.speakers %}
-
+{% if speaker.twitter %}
 <div class="session" id="{{ speaker.twitter }}">
     <div class="speaker">
         <div class="image"><img src="{{ speaker.image }}"></div>
@@ -23,5 +23,5 @@
         </div>
     </div>
 </div>
-
+{% endif %}
 {% endfor %}
