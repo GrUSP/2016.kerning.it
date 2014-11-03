@@ -305,7 +305,7 @@ h2 {
   width: 100%;
   margin: 0 ;
   color: #4c4345;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-style: italic;
   font-size: 1em;
@@ -344,7 +344,7 @@ h2 {
 }
 #speakers #speakers-list span {
   display: block;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -457,7 +457,7 @@ h2 {
   width: 100%;
 }
 #sponsors .become-sponsor {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -540,7 +540,7 @@ h2 {
 }
 #contact h3 {
   color: #e34e35;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 16px;
   line-height: 1.5em;
@@ -649,7 +649,7 @@ h2 {
   text-align: left;
   color: #ffffff;
   text-transform: none;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 16px;
   line-height: 1.5em;
@@ -662,7 +662,7 @@ h2 {
   padding: 30px 0;
 }
 #what .abstract .intro {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -702,7 +702,7 @@ h2 {
   float: left;
   width: 100%;
   margin: 0 ;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -711,13 +711,13 @@ h2 {
   padding: 0 0 30px 0;
 }
 #location-abstract .intro b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
 #location-abstract h3 {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -725,7 +725,7 @@ h2 {
   margin: 0 0 20px 0;
 }
 #location-abstract h3 b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -768,7 +768,7 @@ h2 {
   float: right;
 }
 #stay-abstract h3 {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -776,7 +776,7 @@ h2 {
   margin: 0 0 20px 0;
 }
 #stay-abstract h3 b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -835,7 +835,7 @@ h2 {
   float: right;
 }
 #venue-abstract .col h3 {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -843,7 +843,7 @@ h2 {
   margin: 0 0 20px 0;
 }
 #venue-abstract .col h3 b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -889,7 +889,7 @@ h2 {
   width: 100%;
   margin: 0 ;
   color: #4c4345;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-style: italic;
   font-size: 1em;
@@ -938,7 +938,7 @@ h2 {
   float: left;
   width: 100%;
   margin: 0 ;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -947,13 +947,13 @@ h2 {
   padding: 0 0 30px 0;
 }
 #conduction-longtext .intro b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
 #conduction-longtext h3 {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -964,7 +964,7 @@ h2 {
   margin: 0 0 0.75em 0;
 }
 #conduction-longtext p b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -1020,7 +1020,7 @@ h2 {
   padding: 0 0 20px 0;
 }
 .session .speaker .name {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -1063,7 +1063,7 @@ h2 {
   margin: 0 ;
 }
 .session .topic .title {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 21px;
   line-height: 1.2em;
@@ -1075,7 +1075,7 @@ h2 {
   line-height: 1.5em;
 }
 .session .topic .abstract .intro {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
@@ -1085,7 +1085,7 @@ h2 {
   margin: 0 0 0.75em 0;
 }
 .session .meta .duration {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
@@ -1099,7 +1099,7 @@ h2 {
   line-height: 1.5em;
 }
 .session .meta .where b {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.5em;
@@ -1113,7 +1113,7 @@ h2 {
   display: block;
   padding: 10px 10px 8px 15px;
   color: #f8f7f4;
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 12px;
   line-height: 1.5em;
@@ -1153,7 +1153,7 @@ h2 {
   border-bottom: 1px solid #e5e5e5;
 }
 #schedule .schedule-session .hour {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 24px;
   line-height: 1.5em;
@@ -1179,7 +1179,7 @@ h2 {
   text-decoration: underline;
 }
 #schedule .schedule-session .topic .title {
-  font-family: PlutoSansLight, "adelle", serif;
+  font-family: PlutoSansBold, serif;
   font-weight: 700;
   font-size: 24px;
   line-height: 1.5em;
@@ -1426,7 +1426,7 @@ h2 {
     border-bottom: 1px solid #e5e5e5;
   }
   .schedule-session .hour {
-    font-family: PlutoSansLight, "adelle", serif;
+    font-family: PlutoSansLight, serif;
     font-weight: 100;
     font-size: 24px;
     line-height: 1.5em;
@@ -1439,7 +1439,7 @@ h2 {
     max-width: 183px;
   }
   .schedule-session .topic .title {
-    font-family: PlutoSansLight, "adelle", serif;
+    font-family: PlutoSansBold, serif;
     font-weight: 700;
     font-size: 24px;
     line-height: 1.5em;
@@ -1730,7 +1730,7 @@ h2 {
     float: left;
     width: 16.666666666666664%;
     margin: 0 0%;
-    font-family: PlutoSansLight, "adelle", serif;
+    font-family: PlutoSansLight, serif;
     font-weight: 100;
     font-size: 24px;
     line-height: 1.5em;
@@ -1754,7 +1754,7 @@ h2 {
     text-align: left;
   }
   #schedule .schedule-session .topic .title {
-    font-family: PlutoSansLight, "adelle", serif;
+    font-family: PlutoSansBold, serif;
     font-weight: 700;
     font-size: 24px;
     line-height: 1.5em;
