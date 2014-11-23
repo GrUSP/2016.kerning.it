@@ -1055,6 +1055,10 @@ h2 {
   font-size: 12px;
   line-height: 1.5em;
   margin: 0 0 20px 0;
+  text-align: justify;
+}
+.session .speaker .work {
+  text-align: left;
 }
 .session .topic {
   display: inline;
