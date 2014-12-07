@@ -7,9 +7,18 @@
 			<!--div class="twitter"><a href="http://www.twitter.com/smashingmag/">@smashingmag</a></div-->
 			<div class="bio">
 				<p><a href="http://www.barbaracalzolari.com">Barbara Calzolari</a> worked in the fashion sector with large firms in the garment and licensing trade creating projects and developing in Far East for more than 15 years designing collections and developing products for Pirelli, Ferrari, and Ferrero.
+
+					{% if page.short %}
+							<p><a href="/ws-spencerian.html">Read more</a></p>
+					{% else  %}
+
 					Meanwhile she cultivated and pursued her greatest passion: calligraphy with many association in Italy and in the United States studying the use of the flexible nib for Spencerian script with Michael Sull. She <a href="https://www.flickr.com/photos/8764890@N04/">applied her skills</a> to the creation of masterpieces such as ”Deus Caritas Est”, a complete work of art in book form. She engrossed as a souvenir of the Italy of beauty the national anthems that the prime minister of Italy wished to present to the heads of state assembled at the G8 Summit in 2009.
 					Nowadays she is the hand who writes the fair copies of Pope's encyclicals.<br>
-					She has written three manuscript prestigious books on Catherine de’ Medici epistolary correspondence now held in the Washington DC Library  and in the Vittoriano Museum in Rome. She has Calligraphy Leicester in the Calligraphy museum of Moscow were she taught Spencerian. She attends International Calligraphy conventions, Iampeth, Georgia Emory University College of Arts Atlanta, Calligraphy Centre in North Carolina, Friends of the Alphabet and Pennablers in Atlanta, ECV school of visual communication in Bordeaux,  Skilled Hands Association in in Berlin, Society of Scribes New York  and "Legacy Calligraphy Convention".</p>
+					She has written three manuscript prestigious books on Catherine de’ Medici epistolary correspondence now held in the Washington DC Library  and in the Vittoriano Museum in Rome. She has Calligraphy Leicester in the Calligraphy museum of Moscow were she taught Spencerian. She attends International Calligraphy conventions, Iampeth, Georgia Emory University College of Arts Atlanta, Calligraphy Centre in North Carolina, Friends of the Alphabet and Pennablers in Atlanta, ECV school of visual communication in Bordeaux,  Skilled Hands Association in in Berlin, Society of Scribes New York  and "Legacy Calligraphy Convention".
+
+					{% endif %}
+
+				</p>
 			</div>
 			<div class="meta first">
 				<div class="duration">Duration: Two days</div>
@@ -28,11 +37,21 @@
 				<div class="buy">
 					<a href="#tickets">Get your ticket <b>€ 199.00</b></a>
 				</div>
+
+				{% if page.short %}
+				{% else  %}
+				<div class="sponsor-ws">
+					<b>Sponsored by</b><br/>
+					<a href="http://www.cwr.it/"><img src="/img/sponsor_daler.png" title="Daler"></a><br/>
+					<a href="http://www.johnnealbooks.com/"><img src="/img/sponsor_neal.gif" title="Neal"></a><br/>
+					<a href="http://www.pentel.it/home/"><img src="/img/sponsor_pentel.jpg" title="Pentel"></a>
+				</div>
+				{% endif %}
 			</div>
 		</div>
 	</div>
 	<div class="topic">
-		<div class="title">Spencerian: The Golden Age of Penmanship</div>
+		<div class="title"><a href="/ws-spencerian.html">Spencerian: The Golden Age of Penmanship</a></div>
 		<div class="abstract">
 
 			<p class="intro"><iframe src="//player.vimeo.com/video/111884734?byline=0&amp;portrait=0&amp;title=0&amp;color=e34e35&amp;loop=1" width="520" height="292" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
