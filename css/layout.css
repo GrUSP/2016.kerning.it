@@ -635,7 +635,7 @@ h2 {
 #what h3 {
   padding-top: 20px;
   font-family: PlutoSansLight, sans-serif;
-  font-size: 66px;
+  font-size: 31px;
   line-height: 1em;
   color: #ffffff;
   letter-spacing: 1px;
@@ -712,13 +712,11 @@ h2 {
 }
 #location-abstract .intro b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
 #location-abstract h3 {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
   font-size: 18px;
@@ -726,7 +724,6 @@ h2 {
 }
 #location-abstract h3 b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -769,7 +766,6 @@ h2 {
 }
 #stay-abstract h3 {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
   font-size: 18px;
@@ -777,7 +773,6 @@ h2 {
 }
 #stay-abstract h3 b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -844,7 +839,6 @@ h2 {
 }
 #venue-abstract .col h3 b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -948,13 +942,11 @@ h2 {
 }
 #conduction-longtext .intro b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
 #conduction-longtext h3 {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
   font-size: 18px;
@@ -965,7 +957,6 @@ h2 {
 }
 #conduction-longtext p b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -1027,7 +1018,6 @@ h2 {
 }
 .session .speaker .name {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
   min-height: 30px;
@@ -1074,7 +1064,6 @@ h2 {
 }
 .session .topic .title {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 21px;
   line-height: 1.2em;
   margin: 0;
@@ -1096,7 +1085,6 @@ h2 {
 }
 .session .meta .duration {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -1110,7 +1098,6 @@ h2 {
 }
 .session .meta .where b {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 16px;
   line-height: 1.5em;
 }
@@ -1190,7 +1177,6 @@ h2 {
 }
 #schedule .schedule-session .topic .title {
   font-family: PlutoSansBold, serif;
-  font-weight: 700;
   font-size: 24px;
   line-height: 1.5em;
 }
@@ -1216,6 +1202,11 @@ h2 {
     width: 50%;
     margin: 0 0%;
     padding: 0 5px;
+  }
+  #what h3 {
+    font-family: PlutoSansLight, sans-serif;
+    font-size: 24px;
+    line-height: 1em;
   }
   #speakers #speakers-list li {
     display: inline;
@@ -1450,7 +1441,6 @@ h2 {
   }
   .schedule-session .topic .title {
     font-family: PlutoSansBold, serif;
-    font-weight: 700;
     font-size: 24px;
     line-height: 1.5em;
   }
@@ -1515,6 +1505,11 @@ h2 {
     float: left;
     width: 33.33333333333333%;
     margin: 0 0%;
+  }
+  #what h3 {
+    font-family: PlutoSansLight, sans-serif;
+    font-size: 56px;
+    line-height: 1em;
   }
   #calling #subscription-box {
     display: inline;
@@ -1770,7 +1765,6 @@ h2 {
   }
   #schedule .schedule-session .topic .title {
     font-family: PlutoSansBold, serif;
-    font-weight: 700;
     font-size: 24px;
     line-height: 1.5em;
   }
@@ -1872,4 +1866,11 @@ h2 {
 .sponsor-ws img {
   max-width: 250px;
   margin-top: 0px;
+}
+@media screen and (min-width: 1240px) {
+  #what h3 {
+    font-family: PlutoSansLight, sans-serif;
+    font-size: 66px;
+    line-height: 1em;
+  }
 }

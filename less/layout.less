@@ -57,7 +57,6 @@
 
 .serif-bold(@fs:1em,@lh:1.5em) {
 	font-family: PlutoSansBold, serif;
-	font-weight: 700;
 	font-size:@fs;
   	line-height:@lh;
 }
@@ -503,7 +502,7 @@ h2 {
 	}
     h3 {
         padding-top: 20px;
-        .sans-light(66px,1em);
+        .sans-light(31px,1em);
         color:@white;
         letter-spacing: 1px;
         text-transform: uppercase;
@@ -1008,6 +1007,9 @@ h2 {
 			}
 
 		}
+	  	h3 {
+			.sans-light(24px,1em);
+	  	}
 	}
 
 	#speakers {
@@ -1287,6 +1289,9 @@ h2 {
 				.column(4);
 				//border: 1px solid @beige;
 			}
+		}
+	  	h3 {
+		  .sans-light(56px,1em);
 		}
 	}
 	#calling {
@@ -1612,3 +1617,11 @@ h2 {
   }
 }
 
+/// PANORAMA
+@media screen and (min-width:1240px) {
+  #what{
+	h3 {
+	  .sans-light(66px,1em);
+	}
+  }
+}
