@@ -1082,6 +1082,7 @@ h2 {
 }
 .session .topic .abstract p {
   margin: 0 0 0.75em 0;
+  text-align: justify;
 }
 .session .meta .duration {
   font-family: PlutoSansBold, serif;
