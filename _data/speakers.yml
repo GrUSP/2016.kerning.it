@@ -4,8 +4,8 @@
   twitter: L_Worthington
   bio: An award-winning typeface and lettering designer, Laura Worthington has built an extensive body of work based solely on her original concepts and drawings, and her depth of experience. She is especially known for evocative titling, logo, and display scripts, often offered with an astonishing abundance of swashes, alternates and ornaments. She has created high-level commissioned works (Microsoft, J.M. Smuckers), taught college-level visual communication courses and was a graphic designer for 15 years. Worthington's typefaces have appeared in numerous respected Best of Year lists. She and her work have been featured in several publications and her typefaces are available through a wide range of distinguished and popular distributors. She lives in the woods of the Pacific Northwest.
   works: You can see her latest fonts on <a href="http://lauraworthingtontype.com/">her website</a> and follow her on <a href="https://twitter.com/L_Worthington/">twitter</a>.
-  title: TBA
-  abstract: "TBA"
+  title: Recapturing the Essence of Hand-drawn Lettering Through Typeface Design
+  abstract: "What makes a script typeface look natural, organic, authentic? It’s not the style, the curves, the simplicity, or the complexity. It is the imperfections. It’s natural to want to tame these flaws when creating a typeface, but it is these very imperfections that give the design its feel of humanity. How far do we go with our 'fixes?' What are the other challenges and considerations when designing a script typeface and what options are available to the designer and end-user to achieve the desired look of authenticity? In this talk, I will take you through my personal journey of typeface design and how I’ve answered these questions and more."
   video: 
 - name: Bruno Maag
   hour: 
@@ -24,8 +24,8 @@ After graduating Bruno emigrated to England to work for Monotype where he establ
   twitter: smashingmag
   bio: "Vitaly Friedman loves beautiful content and doesn’t like to give in easily. Vitaly is writer, speaker, author and editor-in-chief of <a href='http://www.smashingmagazine.com'>Smashing Magazine</a>. He runs responsive Web design workshops, online workshops and loves solving complex performance problems in large companies."
   works: "You can follow Vitaly activities on <a href='http://www.smashingmagazine.com'>Smashing Magazine</a>"
-  title: TBA
-  abstract: TBA
+  title: Improving Web Fonts Performance
+  abstract: "When it comes to Web fonts, loading time can be quite a headache. A blank canvas with a few background colors and link underlines is what users usually see on websites, especially when the network connection is suboptimal. There are smart ways to improve web fonts performance and start rendering pages faster, without compromising on the quality of Web typography. In this talk, Vitaly will be talking about a few strategies and a few practical techniques to deliver content faster, load Web fonts faster and deal with them across both modern and legacy browsers in mobile and desktop devices."
   video:
 - name: Indra Kupferschmid
   hour:
@@ -51,8 +51,8 @@ After graduating Bruno emigrated to England to work for Monotype where he establ
   twitter: feltron
   bio: "Nicholas Felton spends much of his time thinking about data, charts and our daily routines. He is the author of many Personal Annual Reports that weave numerous measurements into a tapestry of graphs, maps and statistics reflecting the year’s activities. He was one of the lead designers of Facebook's timeline and the co-founder of Daytum.com. His most recent product is Reporter, an iPhone app designed to record and visualize subtle aspects of our lives. His work is a part of the permanent collection at MoMA. He has also been profiled by the Wall Street Journal, Wired and Good Magazine and recognized as one of the 50 most influential designers in America by Fast Company."
   works: "You can follow Nicholas activities on <a href='http://feltron.com/'>his website</a>"
-  title: TBA
-  abstract: TBA
+  title: Too Big to Fail
+  abstract: "Since 2005, Nicholas Felton has been using data visualization techniques to create Annual Reports that describe his life. Recently, Nicholas Felton attempted to capture a year of his communication exchanges… conversations, phone calls, physical mail, email, SMS and chat messages. “Too Big to Fail” describes this endeavor, as well as the privacy and design challenges of working with this data in the age of the NSA eavesdropping revelations."
   video:
 - name: Oliver Reichenstein
   hour:
@@ -60,8 +60,8 @@ After graduating Bruno emigrated to England to work for Monotype where he establ
   twitter: reichenstein
   bio: "Oliver Reichenstein is the founder of Information Architects (@iA), a global design leader with offices in Tokyo and Zurich. iA are highly regarded not only for their redesigns of high-profile media outlets but also for their best-selling iA Writer app or the iconic Web Trend Map. With their work on the long-overdue reinvention of the word processor, their research in responsive web typography and their lucid and ultra-clear user experience design work for major corporations and organizations iA and Oliver are shaping nothing less than the future of how we read and write."
   works: "You can follow him on twitter via <a href='http://twitter.com/reichenstein'>@reichenstein</a> or <a href='http://twitter.com/ia'>iA</a> accounts"
-  title: TBA
-  abstract: TBA
+  title: Architecting Information
+  abstract: "For developers, the motivation to build so called “Multi Tier" system architectures is to physically separate the main parts of the system. This allows upgrading or replacing any part of its structure without having to change the whole setup. The most common variant is the three tier architecture that differenciates between presentation, logic and data. iA uses a similar approach for creating information systems. In his speech Oliver will explore the role of typography in multi tier information architecture."
   video:
 - name: Marco Goran Romano
   hour:
