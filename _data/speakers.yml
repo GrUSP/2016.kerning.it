@@ -51,8 +51,8 @@ After graduating Bruno emigrated to England to work for Monotype where he establ
   twitter: feltron
   bio: "Nicholas Felton spends much of his time thinking about data, charts and our daily routines. He is the author of many Personal Annual Reports that weave numerous measurements into a tapestry of graphs, maps and statistics reflecting the year’s activities. He was one of the lead designers of Facebook's timeline and the co-founder of Daytum.com. His most recent product is Reporter, an iPhone app designed to record and visualize subtle aspects of our lives. His work is a part of the permanent collection at MoMA. He has also been profiled by the Wall Street Journal, Wired and Good Magazine and recognized as one of the 50 most influential designers in America by Fast Company."
   works: "You can follow Nicholas activities on <a href='http://feltron.com/'>his website</a>"
-  title: Too Big to Fail
-  abstract: "Since 2005, Nicholas Felton has been using data visualization techniques to create Annual Reports that describe his life. Recently, Nicholas Felton attempted to capture a year of his communication exchanges… conversations, phone calls, physical mail, email, SMS and chat messages. '<em>Too Big to Fail</em>' describes this endeavor, as well as the privacy and design challenges of working with this data in the age of the NSA eavesdropping revelations."
+  title: "Too Big to Fail"
+  abstract: "Since 2005, Nicholas Felton has been using data visualization techniques to create Annual Reports that describe his life. Recently, Nicholas Felton attempted to capture a year of his communication exchanges... conversations, phone calls, physical mail, email, SMS and chat messages. '<em>Too Big to Fail</em>' describes this endeavor, as well as the privacy and design challenges of working with this data in the age of the NSA eavesdropping revelations."
   video:
 - name: Oliver Reichenstein
   hour:
@@ -60,8 +60,8 @@ After graduating Bruno emigrated to England to work for Monotype where he establ
   twitter: reichenstein
   bio: "Oliver Reichenstein is the founder of Information Architects (@iA), a global design leader with offices in Tokyo and Zurich. iA are highly regarded not only for their redesigns of high-profile media outlets but also for their best-selling iA Writer app or the iconic Web Trend Map. With their work on the long-overdue reinvention of the word processor, their research in responsive web typography and their lucid and ultra-clear user experience design work for major corporations and organizations iA and Oliver are shaping nothing less than the future of how we read and write."
   works: "You can follow him on twitter via <a href='http://twitter.com/reichenstein'>@reichenstein</a> or <a href='http://twitter.com/ia'>iA</a> accounts"
-  title: Architecting Information
-  abstract: "For developers, the motivation to build so called “Multi Tier" system architectures is to physically separate the main parts of the system. This allows upgrading or replacing any part of its structure without having to change the whole setup. The most common variant is the three tier architecture that differenciates between presentation, logic and data. iA uses a similar approach for creating information systems. In his speech Oliver will explore the role of typography in multi tier information architecture."
+  title: "Architecting Information"
+  abstract: "For developers, the motivation to build so called 'Multi Tier' system architectures is to physically separate the main parts of the system. This allows upgrading or replacing any part of its structure without having to change the whole setup. The most common variant is the three tier architecture that differenciates between presentation, logic and data. iA uses a similar approach for creating information systems. In his speech Oliver will explore the role of typography in multi tier information architecture."
   video:
 - name: Marco Goran Romano
   hour:
