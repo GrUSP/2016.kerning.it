@@ -392,7 +392,7 @@ h2 {
 #tickets #eventbrite-iframe {
   display: none;
 }
-#sponsors {
+#sp {
   padding: 60px 0 30px 0;
   min-height: 200px;
   background-color: #ffffff;
@@ -404,14 +404,14 @@ h2 {
 	}*/
 
 }
-#sponsors h3.greatprimer {
+#sp h3.greatprimer {
   font-family: PlutoSansBold, sans-serif;
   font-size: 1em;
   line-height: 1.5em;
   text-transform: uppercase;
   clear: both;
 }
-#sponsors h3.pica {
+#sp h3.pica {
   font-family: PlutoSansBold, sans-serif;
   font-size: 1em;
   line-height: 1.5em;
@@ -419,7 +419,7 @@ h2 {
   font-size: 14px;
   clear: both;
 }
-#sponsors h3.bourgeois {
+#sp h3.bourgeois {
   font-family: PlutoSansLight, sans-serif;
   font-size: 1em;
   line-height: 1.5em;
@@ -427,7 +427,7 @@ h2 {
   font-size: 14px;
   clear: both;
 }
-#sponsors h3.minion {
+#sp h3.minion {
   font-family: PlutoSansLight, sans-serif;
   font-size: 1em;
   line-height: 1.5em;
@@ -435,7 +435,7 @@ h2 {
   font-size: 12px;
   clear: both;
 }
-#sponsors h3.media {
+#sp h3.media {
   font-family: PlutoSansLight, sans-serif;
   font-size: 1em;
   line-height: 1.5em;
@@ -443,27 +443,27 @@ h2 {
   font-size: 12px;
   clear: both;
 }
-#sponsors .sponsor-block {
+#sp .s-block {
   margin: 25px 0;
 }
-#sponsors .sponsor-block img {
+#sp .s-block img {
   padding: 5px 10px;
   width: 48%;
 }
-#sponsors .sponsor-block.pica img {
+#sp .s-block.pica img {
   width: 70%;
 }
-#sponsors .sponsor-block.great img {
+#sp .s-block.great img {
   width: 100%;
 }
-#sponsors .become-sponsor {
+#sp .become-sponsor {
   font-family: PlutoSansLight, serif;
   font-weight: 100;
   font-size: 1em;
   line-height: 1.5em;
   color: #302c2d;
 }
-#sponsors .become-sponsor a {
+#sp .become-sponsor a {
   color: #e34e35;
 }
 #calling {
@@ -1233,25 +1233,25 @@ h2 {
     height: 620px !important;
     display: block;
   }
-  #sponsors .sponsor-block {
+  #sp .s-block {
     margin: 15px 0;
   }
-  #sponsors .sponsor-block img {
+  #sp .s-block img {
     width: auto;
   }
-  #sponsors .sponsor-block.great img {
+  #sp .s-block.great img {
     max-width: 480px;
   }
-  #sponsors .sponsor-block.pica img {
+  #sp .s-block.pica img {
     max-width: 320px;
   }
-  #sponsors .sponsor-block.bourgeois img {
+  #sp .s-block.bourgeois img {
     max-width: 235px;
   }
-  #sponsors .sponsor-block.minion img {
+  #sp .s-block.minion img {
     max-width: 183px;
   }
-  #sponsors .sponsor-block.media img {
+  #sp .s-block.media img {
     max-width: 140px;
   }
   #calling #subscription-box {
