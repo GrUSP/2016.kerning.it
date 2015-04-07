@@ -52,6 +52,16 @@
 				<div class="buy">
 					<a href="#tickets">Get your ticket <b>€239</b></a>
 				</div>
+
+                {% if page.short %}
+                {% else  %}
+
+
+                <div class="sponsor-ws">
+                    <b>Sponsored by</b><br/>
+                    <a href="http://www.museodellacarta.com/default.asp"><img src="/img/s-mfc.jpg" title="Museo della Carta e della filigrana"></a><br/>
+                </div>
+                {% endif %}
 			</div>
 		</div>
 	</div>
