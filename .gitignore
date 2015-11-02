@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 _site/*
 .idea/*
+=======
+_site/
+.sass-cache/
+>>>>>>> 302bdbeaeea9a088ab990f3375321044c2d855c3
