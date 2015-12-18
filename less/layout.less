@@ -10,6 +10,7 @@
 @orange: #E34E35;
 @red: rgb(198,48,26);
 @gray: rgb(229,229,229);
+@almostgray: rgb(239,238,235);
 @almostblack: rgb(39,36,36);
 
 @speakers: rgb(248,247,244);
@@ -84,7 +85,7 @@ body {
 	margin: 0 auto;
 	min-height: 100%;
 	background: @beige;
-	border: 10px solid @beige;
+	// border: 10px solid @beige;
 	text-rendering: optimizeLegibility;
 	text-align: center;
 	.sans-light();
@@ -295,35 +296,35 @@ h2 {
 	h3.pica {
 		.sans-bold();
 		text-transform: uppercase;
-		font-size: 14px;
+		font-size: 0.95em;
 		clear: both;
 	}
 
 	h3.bourgeois {
 		.sans-light();
 		text-transform: uppercase;
-		font-size: 14px;
+		font-size: 0.95em;
 		clear: both;
 	}
 
     h3.brevier {
 		.sans-light();
 		text-transform: uppercase;
-		font-size: 12px;
+		font-size: 0.85em;
 		clear: both;
 	}
 
 	h3.minion {
 		.sans-light();
 		text-transform: uppercase;
-		font-size: 10px;
+		font-size: 0.75em;
 		clear: both;
 	}
 
 	h3.media {
 		.sans-light();
 		text-transform: uppercase;
-		font-size: 10px;
+		font-size: 0.75em;
 		clear: both;
 	}
 
@@ -352,7 +353,7 @@ h2 {
 #calling {
 	padding:30px 0;
 	min-height: 200px;
-	background-color: @gray;
+	background-color: @almostgray;
 	h2 {
 		color: @black;
 	}
