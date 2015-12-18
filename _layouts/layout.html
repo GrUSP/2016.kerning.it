@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title> {% if page.ttl %} {{ page.ttl }} | {% endif %} Kerning Conference - Faenza, Jun 1-3 2016</title>
+	<title> {% if page.ttl %} {{ page.ttl }} | {% endif %} Kerning Conference - Faenza, Jun 1-3 2016 - BLACK FIRE on WHITE FIRE</title>
 
 	<meta name="description" content="Kerning: The First International Digital Typography Conference in Italy">
 	<meta name="author" content="Beatrice Bassi, Francesco Fullone, Enrico Stradaioli, Maurizio Piacenza">
@@ -62,20 +62,25 @@
     			<ul>
                     {% if site.speakers %}
                     <li><a href="speakers.html">Speakers</a></li>
-                    <li><a href="workshops.html">Workshops</a></li>                    
                     <li><a href="schedule.html">Schedule</a></li>
                     {% endif %}
-                    
+
+										{% if site.workshops %}
+										<li><a href="workshops.html">Workshops</a></li>
+										{% endif %}
+
                     {% if site.tickets %}
                     <li><a href="/#tickets">Tickets</a></li>
                     {% endif %}
-    				<li><a href="location.html">Location &amp; Venue</a></li>
-    				<li><a href="#sponsor" class="scroll">Sponsors</a></li>
-    				<li><a href="#newsletter" class="scroll">Newsletter</a></li>
-    				<li><a href="#contacts" class="scroll">Contacts</a></li>
+
+				    				<li><a href="location.html">Location &amp; Venue</a></li>
+				    				<li><a href="#sponsor" class="scroll">Sponsors</a></li>
+				    				<li><a href="#newsletter" class="scroll">Newsletter</a></li>
+				    				<li><a href="#contacts" class="scroll">Contacts</a></li>
+										
                     <ul class="pastEditionMenu" >
                         <li> <strong>Previous editions:</strong> </li>
-			<li><a href="http://2015.kerning.it">2015</a></li>
+												<li><a href="http://2015.kerning.it">2015</a></li>
                         <li><a href="http://2014.kerning.it">2014</a></li>
                         <li><a href="http://2013.kerning.it">2013</a></li>
                     </ul>

@@ -4,7 +4,7 @@ title: home
 ttl:
 ---
 
-{% include section-content.html %} 
+{% include section-content.html %}
 {% include section-newsletter.html %}
 
 {% if site.tickets %}
@@ -12,8 +12,13 @@ ttl:
 {% endif %}
 
 {% if site.speakers %}
-    {% include section-speakers.html %}
+    {% include section-home-speakers.html %}
 {% endif %}
+
+{% if site.workshops %}
+    {% include section-home-workshops.html %}
+{% endif %}
+
 
 {% include section-sponsors.html %}
 {% include section-contact.html %}

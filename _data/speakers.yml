@@ -1,77 +1,72 @@
-- name:  Laura Worthington 
-  hour: 8.40
-  image: img/laura.png
-  twitter: L_Worthington
-  bio: An award-winning typeface and lettering designer, Laura Worthington has built an extensive body of work based solely on her original concepts and drawings, and her depth of experience. She is especially known for evocative titling, logo, and display scripts, often offered with an astonishing abundance of swashes, alternates and ornaments. She has created high-level commissioned works (Microsoft, J.M. Smuckers), taught college-level visual communication courses and was a graphic designer for 15 years. Worthington's typefaces have appeared in numerous respected Best of Year lists. She and her work have been featured in several publications and her typefaces are available through a wide range of distinguished and popular distributors. She lives in the woods of the Pacific Northwest.
-  works: You can see her latest fonts on <a href="http://lauraworthingtontype.com/">her website</a> and follow her on <a href="https://twitter.com/L_Worthington/">twitter</a>.
-  title: Recapturing the Essence of Hand-drawn Lettering Through Typeface Design
-  abstract: "What makes a script typeface look natural, organic, authentic? It’s not the style, the curves, the simplicity, or the complexity. It is the imperfections. It’s natural to want to tame these flaws when creating a typeface, but it is these very imperfections that give the design its feel of humanity. How far do we go with our 'fixes?' What are the other challenges and considerations when designing a script typeface and what options are available to the designer and end-user to achieve the desired look of authenticity? In this talk, I will take you through my personal journey of typeface design and how I’ve answered these questions and more."
-  video: 
-- name: Bruno Maag
-  hour: 
-  image: img/bruno.png
-  twitter: bruno_maag
-  bio: "Bruno began his career with an apprenticeship as a typesetter at Tages-Anzeiger, Switzerlands largest daily newspaper. He then studied Typography and Visual Communcations at Basel School of Design under Wolfgang Weingart and Andre Gürtler amongst others. 
-
-After graduating Bruno emigrated to England to work for Monotype where he established their ‘custom type department’, creating fonts for the New Yorker magazine, and others. Recent highlights are fonts for Rio2016, multilingual type for Nokia and HP, and a lovely serif font for luxury hotel brand Faena. He is currently investigating type and emotion, with a special interest in the physiological aspects."
-  works: You can see follow his thoughts about typography on <a href="http://blog.daltonmaag.com/">Dalton Maag blog</a> where you can see also his <a href="https://www.daltonmaag.com/library">latest works</a>
-  title: "What lies beneath?"
-  abstract:  "Type design and font development used to be relatively easy until about 10 years ago.  Then digital exploded with the introduction of mobile devices and all of a sudden it was not so easy anymore to make type. The presentation explores what needs to be considered when designing type for a digital world, to make it work across different applications and environments, and maintaining the aesthetic integrity. But more importantly, the presentation explores that simply having a font development tool isn't enough. Bruno Maag illustrates that today training is all important to ensure continuous high quality type and consistent fonts for a digital and global world."
-  video: 
-- name: Vitaly Friedman
+- name:  Sumner Stone
   hour:
-  image: img/vitaly.png
-  twitter: smashingmag
-  bio: "Vitaly Friedman loves beautiful content and doesn’t like to give in easily. Vitaly is writer, speaker, author and editor-in-chief of <a href='http://www.smashingmagazine.com'>Smashing Magazine</a>. He runs responsive Web design workshops, online workshops and loves solving complex performance problems in large companies."
-  works: "You can follow Vitaly activities on <a href='http://www.smashingmagazine.com'>Smashing Magazine</a>"
-  title: Improving Web Fonts Performance
-  abstract: "When it comes to Web fonts, loading time can be quite a headache. A blank canvas with a few background colors and link underlines is what users usually see on websites, especially when the network connection is suboptimal. There are smart ways to improve web fonts performance and start rendering pages faster, without compromising on the quality of Web typography. In this talk, Vitaly will be talking about a few strategies and a few practical techniques to deliver content faster, load Web fonts faster and deal with them across both modern and legacy browsers in mobile and desktop devices."
+  image: img/2016/sumner.png
+  twitter: sthoths
+  bio: "Sumner Stone is the principal and founder of Stone Type Foundry Inc. in Rumsey, California. He has designed numerous typeface families and superfamilies. Mr. Stone was the art director and one of the designers of the prize winning ITC Bodoni. Other projects have included the design of initials for the Arion Press Bible and the revival of Frederic Goudy’s Scripps College Old Style type. He is the author of books and articles about type design and typography, and has given many lectures and workshops on these subjects. From 1984 to 1989 Mr. Stone was Director of Typography for Adobe Systems, Inc., Mountain View, California where he conceived and implemented Adobe’s typographic program including the Adobe Originals. He has served on the boards The Edward Johnston Foundation, Letterform Archive, and the Association Typographique Internationale (ATypI). He was the editor of Type: A Journal of the ATypI. Recently he has taught typeface design through Type@Cooper and will be teaching the Extended Program for Type@Cooper West through Letterform Archive in San Francisco in 2016."
+  works: You can see his latest fonts on <a href="http://www.stonetypefoundry.com/">his website</a> and follow him on <a href="https://twitter.com/sthoths/">twitter</a>.
+  title:
+  abstract:
   video:
-- name: Indra Kupferschmid
+- name: Marta Bernstein
   hour:
-  image: img/indra.png
-  twitter: kupfers
-  bio: "Indra Kupferschmid is a German typographer and professor at HBKsaar, University of Arts Saarbrücken. Fueled by specimen books, she is occupied with type around the clock in all its incarnations – webfonts, bitmap fonts, other fonts, type history, DIN committees, writing, design work, and any combination of this. She is co-author of Helvetica forever by Lars Müller Publishers and wrote Buchstaben kommen selten allein, a German typographic reference book (Niggli). She consults for the type and design industry, and other clients who need help choosing fonts, contributes to print- and web projects such as Codex and Fonts In Use, alongside juggling her own small- and ultralarge-scale ventures."
-  works: "You can see her latest jobs on her <a href='http://www.kupferschrift.de'>website</a>"
-  title: "Fonts, fonts, fonts"
-  abstract: "What lies beneath most typographic design? Right, text, and thus most often: type. What typefaces are out there? How do they differ? How do I find the right ones? Where can I “get” them and what am I allowed to do with them? What should I keep in mind when designing for the screen? What is legibility, what readability, and why is everyone talking about them all the time? To Indra, choosing typefaces is the most interesting part in the design process (also looking at typefaces and talking about typefaces all day). With this talk she hopes to get you excited about the abundance of great fonts out there, too, and that you will look beyond the usual suspects next time you need some."
+  image: img/2016/marta.png
+  twitter: MartaBernstein
+  bio: "Marta Bernstein graduated in 2006 at the Politecnico of Milan with a research thesis on Nineteenth-century Italian type. In 2005, she founded LS graphic design studio in Milan, where she worked for 9 years. In 2015, she founds an independent studio. She collaborated with various publications in the area of type and she is one of the editors of «Italic 2.0 Contemporary Type Design in Italy» (DeAgostini 2008). In 2009, she graduated at the Type and Media Master, the Royal Academy of Art (KABK) in The Hague, NL. She has been involved in teaching since 2007, in the field of typography (Scuola Politecnica di Design), and type design (CFP Riccardo Bauer and Politecnico di Milano)."
+  works: She is a founding partner at <a href="http://incipitlab.com">Incipit</a> – a new design brand, totally made in Italy by young designers – and at <a href="http://c-a-s-t.com">CAST</a>, and Italian digital type foundry.
+  title:
+  abstract:
   video:
-- name: Tobias Frere-Jones
+- name: Gerry Leonidas
   hour:
-  image: img/tobias.png
-  twitter: frerejones
-  bio: "Over 25 years, Tobias Frere-Jones has established himself as one of the world’s leading typeface designers, creating some of the world’s most widely used typefaces, including Interstate, Poynter Oldstyle, Whitney, Gotham, Surveyor, Tungsten and Retina. Frere-Jones received a BFA in Graphic Design from the Rhode Island School of Design in 1992. He joined the faculty of the Yale University School of Art in 1996 and has lectured throughout the United States, Europe and Australia. His work is in the permanent collections of the Victoria & Albert Museum in London and the Museum of Modern Art in New York. In 2006, The Royal Academy of Visual Arts in The Hague (KABK) awarded him the Gerrit Noordzij Prijs, for his contributions to typographic design, writing and education. In 2013 he received the AIGA Medal, in recognition of exceptional achievements in the field of design. Tobias launched his new type design practice, Frere-Jones Type, in January 2015."
-  works: "More about Tobias’ articles, interviews, lectures, exhibitions and awards <a href='http://www.frerejones.com/about/press'>here</a>"
-  title: "In Letters We Trust"
-  abstract: "This talk will present ongoing research into the use of letterforms as a means of security for citizens and governments alike, thwarting forgery in plain sight and in secret. Some strategies have relied on high-profile collaborations, and others on home-grown cunning. Interwoven is a story of war and peace, technology, culture and economics. The narrative will focus on American banknotes from the Colonial period to the present day, with additional examples of government permits and lottery tickets."
+  image: img/2016/gerry.png
+  twitter: gerryleonidas
+  bio: "Gerry Leonidas teaches and researches typography and typeface design at the University of Reading, UK. He supervises MA and PhD research, and lectures widely. He runs knowledge transfer projects, consults on publication and typeface design, and reviews bodies of work. He is the vice-president of ATypI, and helps organise ICTVC, Granshan, and other conferences. He is the Director of the MA Typeface Design, and the TDi summer course; both are global reference points for type education. From this year he will be running a new hybrid MA on research in typeface design. "
+  works: You can see his latest works on <a href="http://leonidas.org/">his website</a> and follow him on <a href="https://twitter.com/gerryleonidas/">twitter</a>.
+  title:
+  abstract:
   video:
-- name: Nicholas Felton
+- name: tba
   hour:
-  image: img/nicholas.png
-  twitter: feltron
-  bio: "Nicholas Felton spends much of his time thinking about data, charts and our daily routines. He is the author of many Personal Annual Reports that weave numerous measurements into a tapestry of graphs, maps and statistics reflecting the year’s activities. He was one of the lead designers of Facebook's timeline and the co-founder of Daytum.com. His most recent product is Reporter, an iPhone app designed to record and visualize subtle aspects of our lives. His work is a part of the permanent collection at MoMA. He has also been profiled by the Wall Street Journal, Wired and Good Magazine and recognized as one of the 50 most influential designers in America by Fast Company."
-  works: "You can follow Nicholas activities on <a href='http://feltron.com/'>his website</a>"
-  title: "Too Big to Fail"
-  abstract: "Since 2005, Nicholas Felton has been using data visualization techniques to create Annual Reports that describe his life. Recently, Nicholas Felton attempted to capture a year of his communication exchanges... conversations, phone calls, physical mail, email, SMS and chat messages. '<em>Too Big to Fail</em>' describes this endeavor, as well as the privacy and design challenges of working with this data in the age of the NSA eavesdropping revelations."
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
   video:
-- name: Oliver Reichenstein
+- name: tba
   hour:
-  image: img/oliver.png
-  twitter: reichenstein
-  bio: "Oliver Reichenstein is the founder of Information Architects (@iA), a global design leader with offices in Tokyo and Zurich. iA are highly regarded not only for their redesigns of high-profile media outlets but also for their best-selling iA Writer app or the iconic Web Trend Map. With their work on the long-overdue reinvention of the word processor, their research in responsive web typography and their lucid and ultra-clear user experience design work for major corporations and organizations iA and Oliver are shaping nothing less than the future of how we read and write."
-  works: "You can follow him on twitter via <a href='http://twitter.com/reichenstein'>@reichenstein</a> or <a href='http://twitter.com/ia'>iA</a> accounts"
-  title: "Architecting Information"
-  abstract: "For developers, the motivation to build so called 'Multi Tier' system architectures is to physically separate the main parts of the system. This allows upgrading or replacing any part of its structure without having to change the whole setup. The most common variant is the three tier architecture that differenciates between presentation, logic and data. iA uses a similar approach for creating information systems. In his speech Oliver will explore the role of typography in multi tier information architecture."
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
   video:
-- name: Marco Goran Romano
+- name: tba
   hour:
-  image: img/goran.png
-  twitter: goranfactory
-  bio: "Marco Goran Romano is a young award winning illustrator based in Milan, Italy. For many years he worked as resident illustrator for Wired Italy, dealing with lettering, data visualization and illustration. In 2014 Goran was selected as one of the “20 Under 30” New Visual Artist by Print Magazine and rewarded by Communication Arts with the Award of Excellence for Typography. His work has been featured in the pages of many books and magazines. Currently Goran works in his studio where he combines his work as illustrator with his personal artistic research. Recently he taught Digital Illustration and Visual Storytelling at IED – European Design Institute in Turin, Italy."
-  works: "You can ses Marco's works on <a href='http://www.goranfactory.com'>his website</a>"
-  title: "A different way to tell stories"
-  abstract: "How many ways you know to tell a story? You can do it using words, videos, comics, illustrations, facts and datas.. or you can use them all, creating new scenarios of perception that involve different media. This is visual storytelling: a new way (maybe not) of sharing contents. Through his works, Marco Goran Romano, will show you how mixing the skills of a graphic designer with the ones of an illustrator and a type designer can achieve the creation of stunning visualization able to seduce readers."
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
   video:
-
-
-
+- name: tba
+  hour:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:
+- name: tba
+  hour:
+  image: img/speaker-plc.png
+  twitter:
+  bio:
+  works:
+  title:
+  abstract:
+  video:

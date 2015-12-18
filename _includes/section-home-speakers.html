@@ -3,31 +3,31 @@
 			<h2>Speakers</h2>
 
 			<ul id="speakers-list">
-                {% for speaker in site.data.speakers %}
+        {% for speaker in site.data.speakers %}
 
-                <li>
+				{% if speaker.twitter != false %}
+        <li>
 					<a href="speakers.html#{{ speaker.twitter }}">
-					<img src="{{ speaker.image }}">
-					<span>{{ speaker.name }}</span>
+						<img src="{{ speaker.image }}">
+						<span>{{ speaker.name }}</span>
 					</a>
 				</li>
 
-                {% endfor %}
-
-
-				{% if false %}
+				{% else %}
 				<li>
 					<img src="/img/speaker-plc.png">
 					<span>To be<br>announced<br></span>
 				</li>
-                {% endif %}
-				
-                
+        {% endif %}
+
+				{% endfor %}
+
 				<li>
 					<img src="/img/simone.png">
-					<span>Simone Wolf (as moderator)</span>
+					<span>Simone Wolf</span>
 				</li>
 			</ul>
+
 			{% if false %}
 				<div class="more">&hellip;more to be announced soon!</div>
 			{% endif %}
