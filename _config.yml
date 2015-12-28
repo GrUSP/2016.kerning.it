@@ -1,9 +1,9 @@
 markdown: kramdown
 highlighter: pygments
 permalink: /blog/:title
-tickets: false
+tickets: true
 speakers: true
-workshops: false
+workshops: true
 rdiscount:
   extensions: [smart]
 gems:
