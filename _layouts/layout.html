@@ -41,7 +41,7 @@
 	-->
 	<meta property="og:title" content="{% if page.ttl %} {{ page.ttl }} {% else %} Kerning Conference 2016 {% endif %}" />
     <meta property="og:description" content="{% if page.descr %} {{ page.descr }} {% else %} 8 Great speakers, 1 wonderful medieval town, 1 thousand typefaces. Buy your ticket now! {% endif %}" />
-	<meta property="og:image" content="http://2014.kerning.it/img/ke_logo_og.jpg" />
+	<meta property="og:image" content="http://2016.kerning.it/img/ke_logo_og.jpg" />
 
 	<link rel="stylesheet" href="css/layout.css?ver=5">
 	<link rel='stylesheet' href='css/humane/libnotify.css'/>
@@ -61,23 +61,26 @@
     		<div id="nav-primary">
     			<ul>
                     {% if site.speakers %}
-                    <li><a href="speakers.html">Speakers</a></li>
-                    <li><a href="schedule.html">Schedule</a></li>
+                        <li><a href="speakers.html">Speakers</a></li>
+                    {% endif %}
+                    
+                    {% if site.schedule %}
+                        <li><a href="schedule.html">Schedule</a></li>
                     {% endif %}
 
-										{% if site.workshops %}
-										<li><a href="workshops.html">Workshops</a></li>
-										{% endif %}
+                    {% if site.workshops %}
+                        <li><a href="workshops.html">Workshops</a></li>
+                    {% endif %}
 
                     {% if site.tickets %}
-                    <li><a href="/#tickets">Tickets</a></li>
+                        <li><a href="/#tickets">Tickets</a></li>
                     {% endif %}
 
-				    				<li><a href="location.html">Location &amp; Venue</a></li>
-				    				<li><a href="#sponsor" class="scroll">Sponsors</a></li>
-				    				<li><a href="#newsletter" class="scroll">Newsletter</a></li>
-				    				<li><a href="#contacts" class="scroll">Contacts</a></li>
-										
+                    <li><a href="location.html">Location &amp; Venue</a></li>
+                    <li><a href="#sponsor" class="scroll">Sponsors</a></li>
+                    <li><a href="#newsletter" class="scroll">Newsletter</a></li>
+                    <li><a href="#contacts" class="scroll">Contacts</a></li>
+
                     <ul class="pastEditionMenu" >
                         <li> <strong>Previous editions:</strong> </li>
 												<li><a href="http://2015.kerning.it">2015</a></li>
