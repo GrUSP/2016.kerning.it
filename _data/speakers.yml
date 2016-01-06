@@ -37,10 +37,19 @@
 - name: tba
   hour:
   image: img/speaker-plc.png
-  twitter:
+  twitter: 
   bio:
   works:
-  title:
+  title: false
+  abstract:
+  video:
+- name: tba
+  hour:
+  image: img/speaker-plc.png
+  twitter: 
+  bio:
+  works:
+  title: false
   abstract:
   video:
 - name: tba
@@ -49,7 +58,7 @@
   twitter:
   bio:
   works:
-  title:
+  title: false
   abstract:
   video:
 - name: tba
@@ -58,15 +67,6 @@
   twitter:
   bio:
   works:
-  title:
-  abstract:
-  video:
-- name: tba
-  hour:
-  image: img/speaker-plc.png
-  twitter:
-  bio:
-  works:
-  title:
+  title: false
   abstract:
   video:

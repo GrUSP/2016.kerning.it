@@ -1,7 +1,15 @@
+<div class="session">|
+{% for speaker in site.data.speakers %}
+    {% if speaker.title != false %}
+        <a href="#{{ speaker.twitter }}" class="sponsor-tooltip workshop-image" data-toggle="tooltip" data-placement="top" data-title="{{ speaker.title }}" data-original-title="" title="{{ speaker.title }}">{{ speaker.name }}</a> |
+    {% endif %}
+{% endfor %}
+</div>
+
 {% for speaker in site.data.speakers %}
 {% if speaker.twitter %}
 <div class="session" id="{{ speaker.twitter }}">
-    <div class="speaker">
+    <div class="speaker" style="width: 100%">
         <div class="image"><img src="{{ speaker.image }}"></div>
         <div class="info">
             <div class="name">{{ speaker.name }}</div>
