@@ -3,6 +3,7 @@ highlighter: pygments
 permalink: /blog/:title
 tickets: true
 speakers: true
+schedule: false
 workshops: true
 schedule: false
 rdiscount:
