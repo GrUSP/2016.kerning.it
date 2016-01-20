@@ -18,3 +18,13 @@
   map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
   anchor: poroli
   url: ws-francescoporoli.html
+- name: Davide Mottes
+  title: "Anatomy of a magazine with Davide MOTTES"
+  image: /img/2016/ws/davide.png
+  twitter: davidemottes
+  duration: 2 days
+  when: 1st and 2nd of June 2016
+  where: "The workshop will take place at: Palazzo Naldi / Faventia Sales (ground floor) room 5<br/>Via San Giovanni Bosco n. 1<br/>Faenza (RA)"
+  map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
+  anchor: davide
+  url: ws-davidemottes.html
