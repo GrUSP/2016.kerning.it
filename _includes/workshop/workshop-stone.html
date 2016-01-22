@@ -28,26 +28,26 @@
 					(<a class="gmap" href="https://www.google.it/maps/place/Via+Manfredi,+14,+48018+Faenza+RA">View on Google Maps</a>)<br><br>
 					<b>When:</b><br>
 					1st and 2nd of June 2016<br/>
-					Please, be on time.<br><br>
+					Please, be on time.<br><br>                
+
+                    {% if page.short %}
+                    {% else  %}
+
                     <b>What:</b><br>
                     <p>Personal laptop with Adobe Photoshop and Illustrator (download <a href="http://www.adobe.com/downloads.html">a 30-day trial</a> if you don’t own it), and FontLab Studio (<a href="http://old.fontlab.com/font-editor/fontlab-studio/download-fontlab-studio/">Demo version</a>)<br/>Notebook/paper, pen, pencil, pencil sharpener, eraser, ruler (etc).
                     </p>
-				</div>
-
+                    <!--div class="sponsor-ws">
+                        <b>Sponsored by</b><br/>
+                    </div-->
+                    {% endif %}
+                </div>
+                
 				{% if site.tickets %}
 				<div class="buy">
-					<a href="#tickets">Get your ticket <b>{{ page.price }}</b></a>
+					<a href="#tickets">Get your ticket</a>
 				</div>
 				{% endif %}
 
-				{% if page.short %}
-				{% else  %}
-
-
-				<!--div class="sponsor-ws">
-					<b>Sponsored by</b><br/>
-				</div-->
-				{% endif %}
 			</div>
 		</div>
 	</div>
