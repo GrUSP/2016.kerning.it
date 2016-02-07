@@ -40,7 +40,7 @@
   twitter: barnbrook
   bio: "Jonathan Barnbrook is one of the most well-known graphic designers in Britain. Most well-known as David Bowie’s favourite graphic designer having worked on the designs of his past 4 albums, including his last album ★. Barnbrook also works with a mixture of cultural institutions, activist groups and charities as well as completing a steady stream of personal works. He is also known for his collaborations with Adbusters, Occupy London, Damien Hirst and his ubiquitous font designs released through Emigre and his company Virusfonts. His contribution to graphic design was recognised by a major retrospective at the Design Museum, London in 2007."
   works: You can see his latest fonts on <a href="http://www.virusfonts.com//">his website</a> and follow him on <a href="https://twitter.com/barnbrook/">twitter</a>.
-  title: false
+  title: 
   abstract:
   video:
 - name: Sara Soueidan
@@ -49,7 +49,7 @@
   twitter: SaraSoueidan
   bio: "Sara is a freelance front-end web developer, writer and speaker from Lebanon. She travels the world giving talks and running workshops on front-end development, lately focusing on CSS and SVG. She is the author of the Codrops CSS Reference and has co-authored the Smashing Book 5. Sara works actively with Web Technology, specifically HTML5, CSS, SVG, RWD, Progressive Enhancement and Performance. She is renowned for her high-quality articles that she publishes on various online magazines including Smashing Magazine and CSS-Tricks."
   works: "You can find a list of all her articles on <a href='http://sarasoueidan.com'>her blog</a>, and follow her on <a href='http://twitter.com/SaraSoueidan'>Twitter</a>."
-  title: false
+  title: 
   abstract:
   video:
 - name: tba
