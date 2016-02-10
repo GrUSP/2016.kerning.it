@@ -28,3 +28,13 @@
   map: https://www.google.com/maps/place/Via+san+Giovanni+Bosco,+1/@44.2832168,11.8849821,16z
   anchor: davide
   url: ws-davidemottes.html
+- name: Officina Typo
+  title: "TYPE VS TYPE: A LETTERPRESS BATTLE. Two historic workshops, a single passion for movable types"
+  image: /img/2016/ws/officinatypo.png
+  twitter: officinatypo
+  duration: 1 day
+  when: 2nd of June 2016
+  where: "The workshop will take place at: La vecchia stamperia<br/>Via Giulio Castellani 25<br/>Faenza (RA)"
+  map: https://www.google.com/maps/place/La+Vecchia+Stamperia+di+Damiano+Bandini/@44.284726,11.87984,16z/
+  anchor: stamperia
+  url: ws-letterpress.html
