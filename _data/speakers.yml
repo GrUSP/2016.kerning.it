@@ -4,8 +4,8 @@
   twitter: sthoths
   bio: "Sumner Stone is the principal and founder of Stone Type Foundry Inc. in Rumsey, California. He has designed numerous typeface families and superfamilies. Mr. Stone was the art director and one of the designers of the prize winning ITC Bodoni. Other projects have included the design of initials for the Arion Press Bible and the revival of Frederic Goudy’s Scripps College Old Style type. He is the author of books and articles about type design and typography, and has given many lectures and workshops on these subjects. From 1984 to 1989 Mr. Stone was Director of Typography for Adobe Systems, Inc., Mountain View, California where he conceived and implemented Adobe’s typographic program including the Adobe Originals. He has served on the boards The Edward Johnston Foundation, Letterform Archive, and the Association Typographique Internationale (ATypI). He was the editor of Type: A Journal of the ATypI. Recently he has taught typeface design through Type@Cooper and will be teaching the Extended Program for Type@Cooper West through Letterform Archive in San Francisco in 2016."
   works: You can see his latest fonts on <a href="http://www.stonetypefoundry.com/">his website</a> and follow him on <a href="https://twitter.com/sthoths/">twitter</a>.
-  title:
-  abstract:
+  title: Romancing the Outline
+  abstract: "The representation of digital fonts by outlines is the invention that made digital typography practical. It became possible for typefaces to be imaged on “any” digital device. This innovation has had a major effect on type design and typography. Solutions to technical puzzles presented by the technology of outlines have opened up many new pathways and led type designers to explore new conceptual approaches. This presentation will examine some of the major ways in which type design has been moved forward as a consequence."
   video:
 - name: Marta Bernstein
   hour:
@@ -13,8 +13,8 @@
   twitter: MartaBernstein
   bio: "Marta Bernstein graduated in 2006 at the Politecnico of Milan with a research thesis on Nineteenth-century Italian type. In 2005, she founded LS graphic design studio in Milan, where she worked for 9 years. In 2015, she founds an independent studio. She collaborated with various publications in the area of type and she is one of the editors of «Italic 2.0 Contemporary Type Design in Italy» (DeAgostini 2008). In 2009, she graduated at the Type and Media Master, the Royal Academy of Art (KABK) in The Hague, NL. She has been involved in teaching since 2007, in the field of typography (Scuola Politecnica di Design), and type design (CFP Riccardo Bauer and Politecnico di Milano)."
   works: She is a founding partner at <a href="http://incipitlab.com">Incipit</a> – a new design brand, totally made in Italy by young designers – and at <a href="http://c-a-s-t.com">CAST</a>, and Italian digital type foundry.
-  title:
-  abstract:
+  title: From Bodoni to Nebiolo, a visual journey across Italy.
+  abstract: "In the span of roughly a century the typographic practice in Italy evolved from being a craft perfected by the skills of Giambattista Bodoni to being fully mechanised. While there are books and essays about the printer from Parma and the Nebiolo company in Turin, not much is known of the century in between the two. How come Nebiolo become one of the most important Italian factories in the early 20th century, aggressively incorporating almost all the possible competitors across the nation? Who were them? While Italy was slowly becoming a unified and independent nation, we will meet along the way visionary publishers, patriotic printers, unlucky punchcutters, forgotten type foundries and authors of typographic manuals. <br> And of course lot of interesting type."
   video:
 - name: Mark Simonson
   hour:
@@ -22,8 +22,8 @@
   twitter: marksimonson
   bio: "Mark Simonson is an independent type designer working out of his home in Saint Paul, Minnesota. Although he got interested in designing typefaces while studying commercial art in college during the seventies, Mark spent the first few decades of his professional life as a graphic designer and magazine art director. In his spare time, he dreamed up ideas for typefaces and read everything he could find related to type design. Thanks to the availability of desktop font-making software, he was finally able to get a few fonts published in the mid-nineties. By 2005, he had over a dozen font families on the market and was doing type design full time. He is probably best known for designing the popular typeface Proxima Nova."
   works: You can see his latest works on <a href="http://www.marksimonson.com/">his website</a> and follow him on <a href="https://twitter.com/marksimonson/">twitter</a>.
-  title:
-  abstract:
+  title: The Rise of the Independent Type Designer
+  abstract: "People didn't always create fonts in their spare bedrooms. How did this happen? When did this change? What did type designers do before they had computers and Twitter accounts? Independent type designer Mark Simonson will talk about the job of the type designer and how it has evolved over the last 500 years, from punch cutting to pantographs to process cameras to PostScript and Python."
   video:
 - name: Gerry Leonidas
   hour:
@@ -31,8 +31,8 @@
   twitter: gerryleonidas
   bio: "Gerry Leonidas teaches and researches typography and typeface design at the University of Reading, UK. He supervises MA and PhD research, and lectures widely. He runs knowledge transfer projects, consults on publication and typeface design, and reviews bodies of work. He is the vice-president of ATypI, and helps organise ICTVC, Granshan, and other conferences. He is the Director of the MA Typeface Design, and the TDi summer course; both are global reference points for type education. From this year he will be running a new hybrid MA on research in typeface design. "
   works: You can see his latest works on <a href="http://leonidas.org/">his website</a> and follow him on <a href="https://twitter.com/gerryleonidas/">twitter</a>.
-  title:
-  abstract:
+  title: Zombie Typography
+  abstract: "For at least twenty years, the end of typography is happening any minute now. Various developments in technology and changes in our habits are supposed to kill it off. Similar claims have been made for typography's esoteric offspring, typeface design. And yet, both are not only surviving as activities, but they are positively thriving: more people are interested, more are talking and reading about typography, and more people are going to more events (like this one). So, what's the secret? This talk is about typography's secret power: what regenerates it after every call for doom, and draws ever more people in. It is a talk about a one-way street, where once typography becomes part of your world, there is no way out. Zombies indeed."
   video:
 - name: Jonathan Barnbrook
   hour:
@@ -49,8 +49,8 @@
   twitter: SaraSoueidan
   bio: "Sara is a freelance front-end web developer, writer and speaker from Lebanon. She travels the world giving talks and running workshops on front-end development, lately focusing on CSS and SVG. She is the author of the Codrops CSS Reference and has co-authored the Smashing Book 5. Sara works actively with Web Technology, specifically HTML5, CSS, SVG, RWD, Progressive Enhancement and Performance. She is renowned for her high-quality articles that she publishes on various online magazines including Smashing Magazine and CSS-Tricks."
   works: "You can find a list of all her articles on <a href='http://sarasoueidan.com'>her blog</a>, and follow her on <a href='http://twitter.com/SaraSoueidan'>Twitter</a>."
-  title: 
-  abstract:
+  title: Creative Responsive Web Type
+  abstract: "Creating responsive type on the Web means more than just adjusting the size of the text as the screen size changes. It also means keeping different user contexts in mind, providing reading experiences that adapt to more than just screen size to include ambient light, and making sure the text is accessible to users with special needs. <br/>Furthermore, we can get creative with Web type much like print designers can get creative with type on paper and posters. Using technologies like CSS and SVG, we can take Web type to the next level by creating beautiful text effects that enhance the look of our pages, while still keeping all aspects of accessibility in mind.<br/>In this talk, we'll go over the technical aspect of creating responsive and creative type using CSS and SVG effects like clipping, masking, color blending effects, and we'll even throw some animation in there as well, to create appealing yet sophisticated reading experiences for the Web of today."
   video:
 - name: Mark Boulton
   hour:
@@ -58,8 +58,8 @@
   twitter: markboulton
   bio: "Mark is a typographic designer and a member of the International Society of Typographic Designers; author of Designing for the Web and Web Standards Creativity; co-creator of Gridset; and was a founding partner of indie publisher, Five Simple Steps.<br> Mark is currently the Design Director at Monotype following the acquisition of his small design studio, Mark Boulton Design. Previously, Mark Boulton Design worked with global media companies such as ESPN and Al Jazeera; small brands with big stories like Hiut Denim; technology organisations such as Drupal and Alfresco; and home to the greatest scientific experiment on earth, CERN. Living in Wales with his wife and two small children, Mark likes nothing more than riding up hills on his bike, trying to cook Japanese food, and consistently moaning about the design of bathroom taps."
   works: You can read his latest thought on <a href="http://www.markboulton.co.uk/">his website</a> and follow him on <a href="https://twitter.com/markboulton/">twitter</a>.
-  title: 
-  abstract:
+  title: Design Systems in Difficult Places
+  abstract: "Gone are the days of knowing what our content is, where and when it’s being displayed, and what our users might be doing at the time. We’re all designing systems now. Modular bit and pieces designed to fit together flawlessly and responsively whenever the user needs it. Or are we happy designing in abstraction without getting our hands dirty with the real problems of web design: People problems, technology problems, content problems. <br>Mark has been involved in large scale publishing design systems for decade or so, and In this talk, Mark will walk through the challenging design systems he’s been involved with."
   video:
 - name: Luca Barcellona
   hour:
@@ -67,6 +67,6 @@
   twitter: barcellonaluca
   bio: "Luca Barcellona (Photo by Lorenzo Barassi) is a reference point in the modern calligraphy world.<br/> He was born in Milan, in 1978, the city where he still lives and has his own studio working as a freelance graphic designer and calligrapher. Letters are the main ingredient of his creations. The means of his work is to make the manual skill of an ancient art as writing and the languages and instruments of the digital era coexist. His study into lettering led him to experience from graffiti to classic calligraphy, up to big wallpainting, typography and letterpress printing.<br> Among the brands that requested his lettering we can number Carhartt, Nike, Mondadori, Zoo York, Dolce & Gabbana, Sony BMG, Seat, Volvo, Universal, Eni, Mont Blanc, Wall Street Institute.<br> He has been teaching calligraphy with the Associazione Calligrafica Italiana since 2007 and he holds workshops and lectures in several cities.<br> He has exhibited his works in many European galleries in personal exhibitions and collective ones. His works are included in many permanent collection such as: Berliner Akademie der Kunst, Harrison Collection and San Francisco Public Library. In 2012 he published his first monographic book <em>Take Your Pleasure Seriously</em> by Lazy Dog press." 
   works: You can see his latest works on <a href="http://www.lucabarcellona.com/">his website</a> and follow him on <a href="https://twitter.com/barcellonaluca/">twitter</a>.
-  title: 
-  abstract:
+  title: Leave Your Mark without a Pause!
+  abstract: "<em>A powerful way to communicate and one of the biggest human conquest</em><br>. That’s writing at first thought. <br> But writing is also a deep personal and instinctive act: while writing our mind flows by just like our hand moves on the paper. That’s why time spent doing calligraphy is so special. There's an intense dialogue between your mind and your body, that steps through your breath, in the exact moment you leave a mark with ink on paper. Writing is a kind of filter to see through everyday’s life things and a sort of huge but simple metaphor of our passage on the earth. <br> The future of handwriting and his function with digital devices diffusion is a big question nowadays: Luca's approach is to share calligraphy as much as he can.  Luca Barcellona inspired many young lettering enthusiasts and demonstrating through his wide range of artistic and commercial works, that handwriting is more than alive."
   video:
