@@ -44,14 +44,14 @@
   abstract: "In the lecture i will talk about the reasons i think there is a need to constantly create typefaces and why i continue to design them. why I think so much about the names I give them, continue to put strange conceptual / political ideas into something as essentially apolitical as a letterforms. finally i will go down to a macro level with one of my most well known fonts ‘mason’ and explain the influences on a series of letterforms from the fonts.<br> I will also show some of the collaborative work with david bowie using the fonts i have designed. highlighting the creative process between myself and bowie. then how these designs are used in all areas of the album publicity and the reactions when the albums were released."
 
   video:
-- name: Sara Soueidan
+- name: Richard Rutter
   hour:
-  image: img/2016/sara.png
-  twitter: SaraSoueidan
-  bio: "Sara is a freelance front-end web developer, writer and speaker from Lebanon. She travels the world giving talks and running workshops on front-end development, lately focusing on CSS and SVG. She is the author of the Codrops CSS Reference and has co-authored the Smashing Book 5. Sara works actively with Web Technology, specifically HTML5, CSS, SVG, RWD, Progressive Enhancement and Performance. She is renowned for her high-quality articles that she publishes on various online magazines including Smashing Magazine and CSS-Tricks."
-  works: "You can find a list of all her articles on <a href='http://sarasoueidan.com'>her blog</a>, and follow her on <a href='http://twitter.com/SaraSoueidan'>Twitter</a>."
-  title: Creative Responsive Web Type
-  abstract: "Creating responsive type on the Web means more than just adjusting the size of the text as the screen size changes. It also means keeping different user contexts in mind, providing reading experiences that adapt to more than just screen size to include ambient light, and making sure the text is accessible to users with special needs. <br/>Furthermore, we can get creative with Web type much like print designers can get creative with type on paper and posters. Using technologies like CSS and SVG, we can take Web type to the next level by creating beautiful text effects that enhance the look of our pages, while still keeping all aspects of accessibility in mind.<br/>In this talk, we'll go over the technical aspect of creating responsive and creative type using CSS and SVG effects like clipping, masking, color blending effects, and we'll even throw some animation in there as well, to create appealing yet sophisticated reading experiences for the Web of today."
+  image: img/2016/richard.png
+  twitter: CLAGNUT
+  bio: "Richard Rutter is a founding partner of Clearleft, a digital design consultancy and studio based in Brighton, UK. Richard is an accomplished technical author and has spoken around the world about web typography and user experience design. In 2005 he created the much-lauded website The Elements of Typographic Style Applied to the Web, which extols the virtues of what can be achieved on the web in type. In 2009 Richard co-founded the web font service Fontdeck as a way to unite web designers and type designers in introducing rich typography to the web. Richard has just successfully crowd-funded self-publishing a book on web typography.."
+  works: "You can find a list of all his articles on <a href='http://clagnut.com/'>his blog</a>, and follow him on <a href='http://twitter.com/CLAGNUT'>Twitter</a>."
+  title: Introductions, Interruptions and Seductions
+  abstract: "The web is full of text to be read: customer reviews, industry reports, social network updates, blog posts, newspapers, magazines, email and so on. Some of that text is well designed and provides a pleasant, engaging experience for the reader (of course far more of it doesn't). But how much of that text - even the well designed bits - really grabs the reader's attention and sets their mood for what it is to follow? This talk will be a call to arms for more websites to do just that. What we need is more websites with engaging, appropriate, distinctive, expressive and readable web typography (which adapts for screens of all shapes. sizes and capabilities)."
   video:
 - name: Mark Boulton
   hour:
