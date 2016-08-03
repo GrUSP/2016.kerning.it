@@ -4,7 +4,7 @@ permalink: /blog/:title
 title: BLACK FIRE on WHITE FIRE
 date: Jun 1-3
 year: 2016
-tickets: true
+tickets: false
 speakers: true
 workshops: true
 schedule: true
