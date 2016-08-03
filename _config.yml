@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /blog/:title
 title: BLACK FIRE on WHITE FIRE
 date: Jun 1-3
